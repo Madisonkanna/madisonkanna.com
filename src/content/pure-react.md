@@ -2,7 +2,7 @@
 title: 3 Things I Learned From David Ceddia's Pure React Course
 layout: post
 author: [Madison]
-date: '2020-05-16T29:40:32.169Z'
+date: 2020-05-16T29:40:32.169Z
 categories: ["Personal"]
 image: img/purereact.png
 draft: true
