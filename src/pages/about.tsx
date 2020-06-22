@@ -7,6 +7,7 @@ import { Footer } from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
 import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
+import Instagram from '../components/Instagram';
 import IndexLayout from '../layouts';
 import {
   inner,
@@ -57,44 +58,47 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+               Hey! I'm Madison. Thanks for visiting my  blog.
                 </h5>
+
+                {/* <p>I'm a self-taught software developer and I share resources and write tutorials to help others teach themselves to code. From coding tutorials to notes on my favorite books to more personal posts, my website is where I teach, learn in public and document my life. </p> */}
+                <h3>Me in 20 seconds</h3>
+                <p>I'm a JavaScript developer working at Keeper Security.</p>
+                <p>I'm creating the <a href="https://www.freecodecamp.org/news/join-the-code-book-club/">CodeBookClub.</a></p>
+                <p>I'm living in California.</p>
+                <p>I'm a self-taught developer and I'm currently creating a free coding course for beginners. <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">Sign up</a> to get the course sent to you when it's out.</p>
+                <h3>My most read articles</h3>
+                <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                <a  href="https://www.madisonkanna.com/how-to-go-from-coding-tutorials/">How to go from coding tutorials to building your own projects</a>
                 </p>
+                <h3>Podcast appearances</h3>
+                <p>The freeCodeCamp podcast:  <a href="https://www.freecodecamp.org/news/from-homeschooler-to-fullstack-developer/">From homeschooler to self-taught full stack developer</a></p>
+                <p>secondCareerDevs: <a href="https://secondcareerdevs.com/episodes/madison-kanna">Fashion Model to Full Stack Dev</a></p>
+                <p>Learn To Code With Me: <a href="https://learntocodewith.me/podcast/fashion-model-to-frontend-developer-with-madison-kanna/">Coding Newbie To Apprentice</a></p>
+                <h3>Top 5 favorite books:</h3>
+                <p>The Worldy Philosophers.</p>
+                <p>Sense and Sensibility.</p>
+                <p>Intro To Computing.</p>
+                <p>Atlas Shrugged.</p>
+                <p>Discover Your Inner Economist.</p>
+                <h3>All my writing by category:</h3>
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
+
+                <a href="https://www.madisonkanna.com/tags/coding/">Coding</a>
                 </p>
-                <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
+                 <p> <a href="https://www.madisonkanna.com/tags/personal/">Personal</a></p>
+         
+                <p><a href="https://www.madisonkanna.com/tags/bookshelf/">Bookshelf</a>
+
                 </p>
+                <h3>Connect with me</h3>
+                <p>Join over 4,000 people and <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">subscribe</a> to my email list.</p>
+                <p>Feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. I love meeting new people who share similar interest and I've met many of my current friends through the internet.</p>
+                <h3>Recent photos</h3>
+                <Instagram></Instagram>
               </div>
+               <Instagram></Instagram>
             </PostFullContent>
           </article>
         </div>

@@ -8,7 +8,7 @@ draft: false
 tags: ["Personal"]
 ---
 
-A photo of me visiting the Art Institute in Chicago this summer.
+A photo of me (and some cool lady with sunglasses on) visiting the Art Institute in Chicago this summer.
 
 I wrote down a few of the things I accomplished this year and a few things I could have done better. 
 

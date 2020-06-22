@@ -5,6 +5,7 @@ import { css } from '@emotion/core';
 
 import { colors } from '../../styles/colors';
 import { SubscribeForm } from './SubscribeForm';
+import Me from '../../content/img/coffeeshop.jpeg'
 
 export interface SubscribeProps {
   title: string;
@@ -13,8 +14,9 @@ export interface SubscribeProps {
 export const Subscribe: React.FC<SubscribeProps> = props => {
   return (
     <SubscribeFormSection>
-      <h3 css={SubscribeFormTitle}>Subscribe to {props.title}</h3>
-      <p>Get the latest posts delivered right to your inbox</p>
+      <img style={{paddingBottom: '20px'}} src={Me}></img>
+      <h3 css={SubscribeFormTitle}>I'll help you on your coding journey.</h3>
+      <p>Join my newsletter to get tips and insights from me on learning to code that I don't share anywhere else.  No spam, ever.</p>
       <SubscribeForm />
     </SubscribeFormSection>
   );

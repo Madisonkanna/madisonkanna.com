@@ -1,15 +1,15 @@
 - id: Madison
-  avatar: avatars/ghost.png
-  bio: The professional publishing platform
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
+  avatar: avatars/author.jpg
+  bio: Blog by Madison Kanna
+  twitter: madisonkanna
+  facebook: madisonkanna
+  website: https://www.madisonkanna
   location: San Francisco
 - id: Another Author
-  avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
-  twitter: TryGhost
+  avatar: avatars/author.jpg
+  bio: Madison Kanna
+  twitter: madisonkanna
   facebook: ghost
-  website: https://ghost.org/
+  website: https://www.mmadisonkanna
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg

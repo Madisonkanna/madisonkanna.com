@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const path = require('path');
-
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Casper',
@@ -18,6 +17,12 @@ module.exports = {
         quality: 100,
         stripMetadata: true,
       },
+    },
+    {
+      resolve: 'gatsby-source-instagram-all',
+      options: {
+        access_token: '288781533.a32f34d.f0f280c5b1c045368b15aaa2df5d1cf2'
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
