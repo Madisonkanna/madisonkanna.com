@@ -98,7 +98,6 @@ const About: React.FC = () => (
                 <h3>Recent photos</h3>
                 <Instagram></Instagram>
               </div>
-               <Instagram></Instagram>
             </PostFullContent>
           </article>
         </div>
