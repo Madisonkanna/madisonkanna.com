@@ -7,7 +7,6 @@ import { Footer } from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
 import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
-import Instagram from '../components/Instagram';
 import IndexLayout from '../layouts';
 import {
   inner,
@@ -95,7 +94,6 @@ const About: React.FC = () => (
                 <p>Join over 4,000 people and <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">subscribe</a> to my email list.</p>
                 <p>Feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. I love meeting new people who share similar interest and I've met many of my current friends through the internet.</p>
                 <h3>Recent photos</h3>
-                <Instagram></Instagram>
               </div>
             </PostFullContent>
           </article>
