@@ -45,8 +45,6 @@ Every other Sunday, we have a group coding session.
 
 **Currently Reading:** Scope & Closures, Book 2 in the series.
 
-![Screenshot from one of our calls.](img/clubscreenshot.png)
-
 You can learn more about the You Don't Know JS series [here](https://github.com/getify/You-Dont-Know-JS).
 
 Feel free to join the weekly reading at any time. You don't have to come to every meeting, and we'll go over discussion questions to cement what we learned, and help each other get clarity on whatever concepts or ideas we are still confused on or struggling with.

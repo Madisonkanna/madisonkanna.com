@@ -39,8 +39,6 @@ Every other Sunday, we have a group coding session.
 
 # You Don't Know JS Discussion Group.
 
-![Discussion Group](https://www.freecodecamp.org/news/content/images/2020/02/image-7.png "Some of  us on a call!") 
-
 **What**: You Don't Know JS book club. 
 
 **When**: 2pm PST/5pm EST on Sundays.
