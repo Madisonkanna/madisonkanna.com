@@ -65,6 +65,12 @@ const About: React.FC = () => (
                 <p>I'm a JavaScript developer working at Keeper Security.</p>
                 <p>I'm creating the <a href="https://www.freecodecamp.org/news/join-the-code-book-club/">CodeBookClub.</a></p>
                 <p>I'm living in California.</p>
+                <h3>Top 5 favorite books:</h3>
+                <p>The Worldy Philosophers.</p>
+                <p>Sense and Sensibility.</p>
+                <p>Intro To Computing.</p>
+                <p>Atlas Shrugged.</p>
+                <p>Discover Your Inner Economist.</p>
                 <h3>My most read articles</h3>
                 <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
                 <p>
@@ -74,12 +80,6 @@ const About: React.FC = () => (
                 <p>The freeCodeCamp podcast:  <a href="https://www.freecodecamp.org/news/from-homeschooler-to-fullstack-developer/">From homeschooler to self-taught full stack developer</a></p>
                 <p>secondCareerDevs: <a href="https://secondcareerdevs.com/episodes/madison-kanna">Fashion Model to Full Stack Dev</a></p>
                 <p>Learn To Code With Me: <a href="https://learntocodewith.me/podcast/fashion-model-to-frontend-developer-with-madison-kanna/">Coding Newbie To Apprentice</a></p>
-                <h3>Top 5 favorite books:</h3>
-                <p>The Worldy Philosophers.</p>
-                <p>Sense and Sensibility.</p>
-                <p>Intro To Computing.</p>
-                <p>Atlas Shrugged.</p>
-                <p>Discover Your Inner Economist.</p>
                 <h3>All my writing by category:</h3>
                 <p>
 
