@@ -51,7 +51,7 @@ const config: WebsiteConfig = {
   title: 'Madison Kanna',
   description: 'Blog of Madison Kanna',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/logo3.png',
+  logo: 'img/author2.png',
   lang: 'en',
   siteUrl: 'https://www.madisonkanna.com',
   twitter: 'https://twitter.com/madisonkanna',

@@ -365,8 +365,8 @@ const AuthorProfileBioImage = css`
   z-index: 10;
   flex-shrink: 0;
   margin: -4px 0 0;
-  width: 110px;
-  height: 110px;
+  width: 140px;
+  height: 140px;
   box-shadow: rgba(255, 255, 255, 0.1) 0 0 0 6px;
   border-radius: 100%;
 `;

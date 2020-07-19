@@ -20,6 +20,7 @@ import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
 import { AuthorList } from '../components/AuthorList';
+import { DiscussionEmbed } from "disqus-react"
 
 export interface Author {
   id: string;
@@ -110,6 +111,12 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
   if (post.frontmatter.image?.childImageSharp) {
     width = post.frontmatter.image.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
     height = String(Number(width) / post.frontmatter.image.childImageSharp.fluid.aspectRatio);
+  }
+
+  let title = post.frontmatter.title
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: title }
   }
 
   const date = new Date(post.frontmatter.date);
@@ -239,12 +246,15 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
           </div>
         </main>
 
+              <DiscussionEmbed {...disqusConfig} />
+
         <ReadNext
           currentPageSlug={props.pathContext.slug}
           tags={post.frontmatter.tags}
           relatedPosts={props.data.relatedPosts}
           pageContext={props.pageContext}
         />
+
 
         <Footer />
       </Wrapper>

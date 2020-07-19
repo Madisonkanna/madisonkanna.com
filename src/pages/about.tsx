@@ -63,7 +63,7 @@ const About: React.FC = () => (
                 {/* <p>I'm a self-taught software developer and I share resources and write tutorials to help others teach themselves to code. From coding tutorials to notes on my favorite books to more personal posts, my website is where I teach, learn in public and document my life. </p> */}
                 <h3>Me in 20 seconds</h3>
                 <p>I'm a JavaScript developer working at Keeper Security.</p>
-                <p>I'm creating the <a href="https://www.freecodecamp.org/news/join-the-code-book-club/">CodeBookClub.</a></p>
+                <p>I'm creating the <a href="https://madisonkanna.com/codebookclub">CodeBookClub.</a></p>
                 <p>I'm living in California.</p>
                 <h3>Top 5 favorite books:</h3>
                 <p>The Worldy Philosophers.</p>

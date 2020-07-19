@@ -21,7 +21,7 @@ interface SiteNavProps {
 
 interface SiteNavState {
   showTitle: boolean;
-}
+} 
 
 class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
   subscribe = React.createRef<SubscribeModal>();
