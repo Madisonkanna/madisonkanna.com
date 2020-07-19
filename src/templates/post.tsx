@@ -239,6 +239,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                 </PostFullImage>
               )}
               <PostContent htmlAst={post.htmlAst} />
+              <DiscussionEmbed {...disqusConfig} />
 
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
@@ -246,7 +247,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
           </div>
         </main>
 
-              <DiscussionEmbed {...disqusConfig} />
+
 
         <ReadNext
           currentPageSlug={props.pathContext.slug}
