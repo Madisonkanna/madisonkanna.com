@@ -152,7 +152,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          Meet me
+                          About me
                         </AuthorSocialLinkAnchor>
                       </AuthorSocialLink>
                     )}
