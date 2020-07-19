@@ -4,7 +4,7 @@ date: 2020-07-12T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
-image: img/notcaring.JPG
+image: img/notcaring.jpg
 tags: ["Bookshelf"]
 ---
 
