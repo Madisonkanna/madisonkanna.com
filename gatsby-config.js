@@ -18,12 +18,7 @@ module.exports = {
         stripMetadata: true,
       },
     },
-    {
-      resolve: 'gatsby-source-instagram-all',
-      options: {
-        access_token: '288781533.a32f34d.f0f280c5b1c045368b15aaa2df5d1cf2'
-      }
-    },
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {
