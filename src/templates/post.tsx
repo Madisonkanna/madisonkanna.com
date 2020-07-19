@@ -115,7 +115,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
 
   let title = post.frontmatter.title
   const disqusConfig = {
-    shortname: process.env.GATSBY_DISQUS_NAME,
+    shortname: 'madisonkanna',
     config: { identifier: title }
   }
 
