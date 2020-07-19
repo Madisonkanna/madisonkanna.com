@@ -3,7 +3,7 @@ title: The Courage To Be Disliked
 date: 2020-07-16T22:40:32.169Z
 layout: post
 author: [Madison]
-draft: false
+draft: true
 image: img/couragetobe.JPG
 tags: ["Bookshelf"]
 ---
