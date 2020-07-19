@@ -4,12 +4,9 @@ date: 2020-07-12T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
-image: img/notcaringwhatpeoplethink.jpg
+image: img/notcaring.JPG
 tags: ["Bookshelf"]
 ---
-
-[click on this link](#my-multi-word-header)
-
 
 Notes & takeaways from "Not Caring What People Think Is A Superpower" by Ed Latimore.
 
