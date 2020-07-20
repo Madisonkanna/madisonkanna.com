@@ -1,6 +1,6 @@
 ---
 title: 12 Rules For Life
-date: 2019-10-16T22:40:32.169Z
+date: 2019-04-16T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
