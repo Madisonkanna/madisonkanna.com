@@ -1,6 +1,6 @@
 ---
 title: The Revolt Of The Public By Martin Gurri
-date: 2019-07-11T22:40:32.169Z
+date: 2019-09-11T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
