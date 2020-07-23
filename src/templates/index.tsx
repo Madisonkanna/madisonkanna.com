@@ -116,7 +116,8 @@ const IndexPage: React.FC<IndexProps> = props => {
                 />
                 <AuthHeaderContent className="author-header-content">
                   <SiteTitle className="site-title">Hi, I'm Madison.</SiteTitle>
-                  { <AuthorBio className="author-bio">Welcome! Here you'll find my notes on what I'm learning. If you read anything here and have feedback, corrections or thoughts please comment or let me know! </AuthorBio>}
+                  { <AuthorBio className="author-bio">Welcome! Here's where I've lately been scribbing down notes on what I'm learning. If you read anything here and have feedback, corrections or thoughts, I'd love to hear from you.
+                   </AuthorBio>}
                   <div css={AuthorMeta} className="author-meta">
 
                     {/* <div className="author-stats" css={[HiddenMobile]}>
