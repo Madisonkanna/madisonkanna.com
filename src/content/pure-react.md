@@ -31,7 +31,7 @@ A React component primarily renders for 2 reasons: either its state changes, or 
 
 ## 3. Developing declarative thinking.
 
-In React, it's helpul to think declaratively, rather than imperatively. Simple example of the declarative React way of thinking. 
+In React, we think declaratively, rather than imperatively. Simple example of the declarative React way of thinking. 
 
 ```jsx
 <Accordion isOpen={true}/> 
@@ -42,4 +42,4 @@ function hi()
 
 Before using React, we might think about opening and closing an accordion by clicking on a toggle button. The Accordion knows if it is open or closed. With React, thinking declaratively, the Accordion is displayed in either an open or closed state and this info is stored as a flag inside the parent's component state, not the Accordion. The Accordion is *told* to open or closed by what is rendering it.
 
-These are just a few things I learned from course, and you can view the full [curriculum](https://purereact.com/).
+These are just a few things I learned from course, and you can view the full [curriculum](https://purereact.com/) here.
