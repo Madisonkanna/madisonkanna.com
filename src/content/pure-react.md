@@ -27,7 +27,7 @@ This is how hooks are able to retain state between renders, and understanding th
 
 ## 2. Optimizing a React Component with shouldComponentUpdate.
 
-A React component primarily renders for 2 reasons: either its state changes, or its parent told it to re-render. We can use the `componentShouldUpdate` lifecycle method to only rerender our component if its props have changed. 
+A React component primarily renders for 2 reasons: either its state changes, or its parent told it to re-render. We can use the `componentShouldUpdate` lifecycle method to only rerender our component if its props have changed. Note: `shouldComponentUpdate` should be used sparingly. 
 
 ## 3. Developing declarative thinking.
 
