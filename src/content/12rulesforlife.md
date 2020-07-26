@@ -3,7 +3,8 @@ title: 12 Rules For Life
 date: 2019-01-16T22:40:32.169Z
 layout: post
 author: [Madison]
-draft: false
+draft: true
+
 image: img/12rulesforlife.jpg
 
 tags: ["Bookshelf"]

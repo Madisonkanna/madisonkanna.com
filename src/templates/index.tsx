@@ -123,7 +123,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                     {/* <div className="author-stats" css={[HiddenMobile]}>
                       posts
                     </div> */}
-                    {(
+                    {/* {(
                       <AuthorSocialLink className="author-social-link">
                         <AuthorSocialLinkAnchor
                           href="https://madisonkanna.com/tags/bookshelf/"
@@ -133,7 +133,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                           My Bookshelf  📚
                         </AuthorSocialLinkAnchor>
                       </AuthorSocialLink>
-                    )}
+                    )} */}
 
                     {(
                       <AuthorSocialLink className="author-social-link">
