@@ -12,9 +12,6 @@ tags: ["Bookshelf"]
 
 "12 Rules For Life" by Jordan B. Peterson was one of the best books I've read in a long time. I was luckily able to attend Peterson's 12 rules for life book tour and got to briefly [meet him!](https://www.instagram.com/p/B5tPUnkAxQv/)
 
-
-My notes from the book "The Courage To Be Disliked" by  Ichiro Kishimi and Fumitake Koga.
-
 ## Rule 1
 
 Stand up straight with your shoulders back.
