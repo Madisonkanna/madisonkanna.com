@@ -120,10 +120,10 @@ const IndexPage: React.FC<IndexProps> = props => {
                    </AuthorBio>}
                   <div css={AuthorMeta} className="author-meta">
 
-                    {/* <div className="author-stats" css={[HiddenMobile]}>
+                    <div className="author-stats" css={[HiddenMobile]}>
                       posts
-                    </div> */}
-                    {/* {(
+                    </div>
+                    {(
                       <AuthorSocialLink className="author-social-link">
                         <AuthorSocialLinkAnchor
                           href="https://madisonkanna.com/tags/bookshelf/"
@@ -133,7 +133,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                           My Bookshelf  📚
                         </AuthorSocialLinkAnchor>
                       </AuthorSocialLink>
-                    )} */}
+                    )}
 
                     {(
                       <AuthorSocialLink className="author-social-link">
