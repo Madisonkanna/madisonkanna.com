@@ -76,7 +76,7 @@ const About: React.FC = () => (
                 <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
 
                 <p>
-                <a  href="https://www.madisonkanna.com/how-to-go-from-coding-tutorials/">How to go from coding tutorials to building your own projects</a>
+                <a  href="https://madisonkanna.com/codingtutorialstoprojects/">How to go from coding tutorials to building your own projects</a>
                 </p>
                 <h3>Podcast appearances</h3>
                 <p>The freeCodeCamp podcast:  <a href="https://www.freecodecamp.org/news/from-homeschooler-to-fullstack-developer/">From homeschooler to self-taught full stack developer</a></p>
