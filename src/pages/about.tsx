@@ -72,7 +72,9 @@ const About: React.FC = () => (
                 <p>Atlas Shrugged.</p>
                 <p>Discover Your Inner Economist.</p>
                 <h3>My most read articles</h3>
+                                <p><a href="https://www.madisonkanna.com/why-im-glad-i-grew-up-playing-neopets/">Why I'm Glad I Grew Up Playing Neopets</a></p>
                 <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
+
                 <p>
                 <a  href="https://www.madisonkanna.com/how-to-go-from-coding-tutorials/">How to go from coding tutorials to building your own projects</a>
                 </p>
