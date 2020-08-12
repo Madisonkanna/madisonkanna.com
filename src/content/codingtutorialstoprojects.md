@@ -1,8 +1,9 @@
 ---
 layout: post
-title: How to go from coding tutorials to building your own projects
+title: "How to go from coding tutorials to building your own projects"
 image: img/codingtutorials.jpeg
 author: Madison
+draft:  false
 date: 2019-03-01T10:00:00.000Z
 tags:
   - "Coding"
