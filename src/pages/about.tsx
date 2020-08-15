@@ -89,9 +89,9 @@ const About: React.FC = () => (
                 </p>
                  <p> <a href="https://www.madisonkanna.com/tags/personal/">Personal</a></p>
          
-                <p><a href="https://www.madisonkanna.com/tags/bookshelf/">Bookshelf</a>
+                {/* <p><a href="https://www.madisonkanna.com/tags/bookshelf/">Bookshelf</a>
 
-                </p>
+                </p> */}
                 <h3>Connect with me</h3>
                 <p>Join over 4,000 people and <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">subscribe</a> to my email list.</p>
                 <p>Feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. I love meeting new people who share similar interest and I've met many of my current friends through the internet.</p>
