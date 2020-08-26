@@ -23,7 +23,7 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => {
   return (
     <PostFullContent className="post-full-content">
-      <h3>💡Request for feedback!
+      <h3>💡Request for feedback
         </h3><div style={{paddingBottom: '20px',  fontStyle: 'italic'}}>If you are taking the time to read this (thank you) and have feedback, please comment below! Comments, corrections, and constructive criticism are not just welcome, but wanted!  </div>
       {/* TODO: this will apply the class when rehype-react is published https://github.com/rhysd/rehype-react/pull/11 */}
       <Ast className="post-content" ast={htmlAst} />
