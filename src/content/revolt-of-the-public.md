@@ -5,7 +5,7 @@ layout: post
 author: [Madison]
 draft: false
 image: img/revolt.jpg
-tags: ["Bookshelf"]
+tags: ["Bookshelf 📚"]
 ---
 Image from [Stripe Press](https://press.stripe.com/). Below are some of the notes I jotted down while reading this book. These notes are by no means comprehensive. They are paragraphs or sections that struck me and or that I underlined while reading. Have thoughts or recommended reading for me? Feel free to leave a comment below.
 

@@ -199,7 +199,13 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                     <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
                       {post.frontmatter.tags[0]}
                     </Link>
+
                   )}
+                  {post.frontmatter.tags[1] ? 
+                   <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[1])}/`}>
+                      , {post.frontmatter.tags[1]}
+                    </Link> : ''
+                  }
                 </PostFullTags>
                 <PostFullTitle className="post-full-title">{post.frontmatter.title}</PostFullTitle>
                 <PostFullCustomExcerpt className="post-full-custom-excerpt">
@@ -231,6 +237,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
 
               {post.frontmatter.image?.childImageSharp && (
                 <PostFullImage>
+
                   <Img
                     style={{ height: '100%' }}
                     fluid={post.frontmatter.image.childImageSharp.fluid}
@@ -238,6 +245,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                   />
                 </PostFullImage>
               )}
+
               <PostContent htmlAst={post.htmlAst} />
               <DiscussionEmbed {...disqusConfig} />
 

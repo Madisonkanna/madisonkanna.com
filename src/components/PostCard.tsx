@@ -1,3 +1,4 @@
+
 import { format } from 'date-fns';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
@@ -49,7 +50,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
           <PostCardHeader className="post-card-header">
             {post.frontmatter.tags && (
               <PostCardPrimaryTag className="post-card-primary-tag">
-                {post.frontmatter.tags[0]}
+                {`${post.frontmatter.tags[0]} ${post.frontmatter.tags[1] ? post.frontmatter.tags[1] : '' } `}
               </PostCardPrimaryTag>
             )}
             <PostCardTitle className="post-card-title">{post.frontmatter.title}</PostCardTitle>

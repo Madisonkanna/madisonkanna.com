@@ -108,7 +108,7 @@ const Tags: React.FC<TagTemplateProps> = props => {
                 ) : (
                   <>
                    
-                   {tag === 'Bookshelf' &&  'Here are my bookshelf notes.'}
+                   {tag === 'Bookshelf 📚' &&  'Here are my bookshelf notes.'}
                  
                     {totalCount === 1 && '1 post'}
                     {totalCount === 0 && 'No posts'}
