@@ -6,7 +6,7 @@ date: 2020-07-22T29:40:32.169Z
 categories: ["Coding"]
 image: img/purereact.png
 draft: false
-tags: ["Coding", "My Notes 📝", "React"]
+tags: ["Coding", "My Notes", "React"]
 ---
 
 David Ceddia's [Pure React](https://purereact.com/)  course contains self-paced React workshops, the pure react book, and access to previous live events David has taught. There are also future modules coming to the course, such as an Async React with Suspense modules. I thought the course was excellent and well worth the investment. Below are some of my notes on a few things I learned from the course.
