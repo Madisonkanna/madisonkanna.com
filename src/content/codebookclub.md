@@ -9,7 +9,7 @@ tags:
   - "Coding"
 ---
 
-Here you'll find details about the CodeBookClub. Who are we? :persevere:
+Here you'll find details about the CodeBookClub. Who are we?
 
 We are hundreds of developers of all experience levels learning together. We hold live online meetups on Zoom, a free video conference software. We pair program, hold group coding sessions, and read/discuss tutorials, courses and technical books together. Take a look at this quick [video](https://www.youtube.com/watch?v=VCLnBkHeUJQ&t=82s) I  made about the club.
 
