@@ -25,6 +25,27 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
   // 20 AUG 2018
   const displayDatetime = format(date, 'dd LLL yyyy');
 
+  const tagChecks = () => {
+
+    const { tags } = post.frontmatter 
+
+    if (tags[0] === "Bookshelf") {
+      tags[0] = "Bookshelf 📚"
+    }
+
+    if (tags[1] === "My notes") {
+      tags[0] = "My notes 📝"
+    }
+
+    return (
+      <PostCardPrimaryTag className="post-card-primary-tag">
+      {`${tags[0]} ${tags[1] ? tags[1] : '' } `}
+      </PostCardPrimaryTag>
+
+    )
+
+  };
+
   return (
     <article
       className={`post-card ${post.frontmatter.image ? '' : 'no-image'} ${
@@ -48,11 +69,9 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
       <PostCardContent className="post-card-content">
         <Link className="post-card-content-link" css={PostCardContentLink} to={post.fields.slug}>
           <PostCardHeader className="post-card-header">
-            {post.frontmatter.tags && (
-              <PostCardPrimaryTag className="post-card-primary-tag">
-                {`${post.frontmatter.tags[0]} ${post.frontmatter.tags[1] ? post.frontmatter.tags[1] : '' } `}
-              </PostCardPrimaryTag>
-            )}
+          
+          {post.frontmatter.tags ? tagChecks() : null}
+
             <PostCardTitle className="post-card-title">{post.frontmatter.title}</PostCardTitle>
           </PostCardHeader>
           <PostCardExcerpt className="post-card-excerpt">
