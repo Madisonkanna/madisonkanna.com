@@ -5,7 +5,7 @@ layout: post
 author: [Madison]
 draft: false
 image: img/notcaring.png
-tags: ["Bookshelf"]
+tags: ["Bookshelf", "My Notes"]
 ---
 
 Notes & takeaways from "Not Caring What People Think Is A Superpower" by Ed Latimore.
