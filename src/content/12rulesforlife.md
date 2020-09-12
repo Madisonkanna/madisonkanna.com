@@ -7,7 +7,7 @@ draft: false
 
 image: img/12rulesforlife.jpg
 
-tags: ["Bookshelf 📚"]
+tags: ["Bookshelf"]
 ---
 
 "12 Rules For Life" by Jordan B. Peterson was one of the best books I've read in a long time. I was luckily able to attend Peterson's 12 rules for life book tour and got to briefly [meet him!](https://www.instagram.com/p/B5tPUnkAxQv/)
