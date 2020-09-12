@@ -94,7 +94,7 @@ const About: React.FC = () => (
                 </p> */}
                 <h3>Connect with me</h3>
                 <p>Join over 4,000 people and <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">subscribe</a> to my email list.</p>
-                <p>Feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. I love meeting new people who share similar interests.</p>
+                <p>If you're interested in working with me, becoming my friend or going on a date with me, feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. </p>
               </div>
             </PostFullContent>
           </article>
