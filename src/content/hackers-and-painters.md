@@ -1,6 +1,6 @@
 ---
 title: Hackers and Painters
-date: 2020-06-20T22:40:32.169Z
+date: 2020-10-06T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
