@@ -3,9 +3,9 @@ title: Hackers and Painters
 date: 2020-10-06T22:40:32.169Z
 layout: post
 author: [Madison]
-draft: false
+draft: true
 image: img/hackers.JPG
-tags: ["Bookshelf", "My Notes", "Draft Post"]
+tags: ["Bookshelf", "Draft Post"]
 ---
 
 My notes (in progress) of [Hackers & Painters: Big Ideas From The Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham.
