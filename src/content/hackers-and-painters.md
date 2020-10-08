@@ -1,17 +1,18 @@
 ---
 title: Hackers and Painters
-date: 2020-10-06T22:40:32.169Z
+date: 2020-10-08T22:40:32.169Z
 layout: post
 author: [Madison]
-draft: true
+draft: false
 image: img/hackers.JPG
 tags: ["Bookshelf", "Draft Post"]
 ---
 
-My notes (in progress) of [Hackers & Painters: Big Ideas From The Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham.
+My notes so far from [Hackers & Painters: Big Ideas From The Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554) by Paul Graham.
 
 1. [Why Nerds Are Unpopular](#why-nerds)
 2. [Hackers And Painters](#hackers-and-painters)
+3. [What You Can't Say](#what-you-cant-say)
 
 ##  Why Nerds Are Unpopular <a name="why-nerds"></a>
 
@@ -27,4 +28,25 @@ When trying to account for why teenagers are unhappy and treat each other badly,
 
 ##  Hackers And Painters <a name="hackers-and-painters"></a>
 
+People tend to think hacking and painting are very different  kinds of work, but they have a lot in common. Hackers and painters are both makers.
+
+Computers science is a grab bag of tenuously related terms thrown together. At one end you have mathematicians, in the  middle you have people working on things like studying the history of computing, and on the other end you have hackers who are trying to write interesting software. Bundling all of these under the umbrella of computer science is confusing.For hackers, computers are just a medium of expression, as paint is for painters. Hackers need to understand the theory of computation as much as painters need to understand paint chemistry. 
+
+Often the way to build something beautiful is to make subtle tweaks to something that already exists, or to combine existing ideas in a slightly new way. 
+
+Hacking at a company means implementing software, not designing it. Big companies do this. Advantage of a startup is hackers can design good software. This doesn’t matter for big companies, as they win not by making great products but by sucking less than other big companies. It’s hard to get into a design war with a big company. Try to fight design wars in new markets where no one has built fortifications. Take the bold approach to design and have the same people both design and implement.
+
+All makers face this problem: there is not as much demand for things that are fun to work on, as there is things that solve the mundane problems of individual customers. The answer to this for makers is the day job, while working on projects on the side. Example of this for devs is contributing to open source. 
+
+### What painting can teach us about hacking:
+
+1. You learn to paint by painting--same with coding.
+2. Learn from examples. Painters have museums to reference, devs have opens source code. 
+3. Gradual refinement. Write programs in a way that allows specifications to change on the fly. 
+4. Have a fanatical  devotion to beauty. 
+5. Work comes in cycles. Inspired to code some days, others not. Save up easy tasks (such as debugging) for days when you’re not inspired. 
+6. Collaborate by diving projects into sharpy defined modules, each with a clear owner. 
+7. Have empathy, see from the user’s point of view 
+
+##  What You Can't Say <a name="what-you-cant-say"></a>
 
