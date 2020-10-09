@@ -48,7 +48,7 @@ All makers face this problem: there is not as much demand for things that are fu
 
 ##  What You Can't Say <a name="what-you-cant-say"></a>
 
-We look back at old fashions and cringe at what we decided to wear at the time.There are always moral fashions. In every time period, violating a moral fashion could get you fired, ostracized or killed. In the 17th century, Galileo got in trouble for saying the earth moves. 
+We look back at old fashions and cringe at what we decided to wear at the time. There are moral fashions too. In every time period, violating a moral fashion could get you fired, ostracized or killed. In the 17th century, Galileo got in trouble for saying the earth moves. 
 
 Conformity test: If you have no opinions you’d be reluctant to share in front of your peers, that’s not coincidence. You think what you’re told to think. If you believe everything you are supposed to, you likely would have believed everything you were supposed to if you’d grown up among the plantation owners of the pre-Civil War south, or in Germany in the 1930s. 
 
