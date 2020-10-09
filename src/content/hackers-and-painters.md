@@ -60,7 +60,7 @@ Look for labels that get appended to statements to shoot them down before anyone
 3. Look at how taboos are created. Groups purposefully launch taboos, and the prohibition is strongest when the group is nervous. These groups are strong enough to launch a taboo but weak enough to need one. 
 
 ### Why should you figure out what you can’t say?
-1. Curiosity
+1. Curiosity.
 2. To find out if you’re mistaken or not. If, like other eras, we believe things that later seem ridiculous, you can figure out what they are now and avoid believing them.
 3. To do good work you need a brain that can go anywhere. If you can think things so outside of the box that they’d make people’s hair stand on end, you’ll have no trouble with the small trips outside the box that people call innovation. 
 
