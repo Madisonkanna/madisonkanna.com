@@ -34,7 +34,7 @@ Often the way to build something beautiful is to make subtle tweaks to something
 
 Hacking at a company means implementing software, not designing it. Big companies do this. Advantage of a startup is hackers can design good software. This doesn’t matter for big companies, as they win not by making great products but by sucking less than other big companies. It’s hard to get into a design war with a big company. Try to fight design wars in new markets where no one has built fortifications. Take the bold approach to design and have the same people both design and implement.
 
-All makers face this problem: there is not as much demand for things that are fun to work on, as there is things that solve the mundane problems of individual customers. The answer to this for makers is the day job, while working on projects on the side. Example) devs  contributing to open source. 
+All makers face this problem: there is not as much demand for things that are fun to work on, as there is things that solve the mundane problems of individual customers. The answer to this for makers is the day job, while working on projects on the side. Example: devs  contributing to open source. 
 
 ### What painting can teach us about hacking:
 
