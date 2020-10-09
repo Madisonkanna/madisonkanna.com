@@ -44,7 +44,7 @@ All makers face this problem: there is not as much demand for things that are fu
 4. Have a fanatical  devotion to beauty. 
 5. Work comes in cycles. Inspired to code some days, others not. Save up easy tasks (such as debugging) for days when you’re not inspired. 
 6. Collaborate by diving projects into sharpy defined modules, each with a clear owner. 
-7. Have empathy, see from the user’s point of view 
+7. Have empathy, see from the user’s point of view.
 
 ##  What You Can't Say <a name="what-you-cant-say"></a>
 
