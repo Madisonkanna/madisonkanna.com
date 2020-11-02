@@ -15,7 +15,7 @@ export const Subscribe: React.FC<SubscribeProps> = props => {
   return (
     <SubscribeFormSection>
       <img style={{paddingBottom: '20px'}} src={CodeClub}></img>
-      <h3 css={SubscribeFormTitle}>Join my free coding club.</h3>
+      <h3 css={SubscribeFormTitle}>Join my coding club.</h3>
       <p>The CodeBookClub is a club for new and intermediate developers. We host live events such as a bi-monthly book club meeting and group programming. Sign up to become a member of the club and learn with us.</p>
       <SubscribeForm />
     </SubscribeFormSection>
