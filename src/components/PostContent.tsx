@@ -24,7 +24,7 @@ const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => {
   return (
     <PostFullContent className="post-full-content">
       <h3>💡Request for feedback
-        </h3><div style={{paddingBottom: '20px',  fontStyle: 'italic'}}>If you're taking the time to read this and have constructive criticism, feedback, or corrections, please comment below or email me (madisonkanna@gmail.com).</div>
+        </h3><div style={{paddingBottom: '20px',  fontStyle: 'italic'}}>If you're taking the time to read this and have feedback, criticism, or corrections, please leave comment below, email me (madisonkanna@gmail.com), or leave anonymous feedback <a href='https://forms.gle/9TMqu8NvEaRGukj9A'>here.</a> </div>
       {/* TODO: this will apply the class when rehype-react is published https://github.com/rhysd/rehype-react/pull/11 */}
       <Ast className="post-content" ast={htmlAst} />
     </PostFullContent>
