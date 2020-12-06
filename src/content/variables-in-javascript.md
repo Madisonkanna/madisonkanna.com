@@ -4,7 +4,7 @@ date: 2020-11-30T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
-image: img/varconstlet.png
+image: img/jsvars.jpg
 tags: ["Coding", "JavaScript", "Tutorials"]
 ---
 
