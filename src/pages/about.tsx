@@ -65,12 +65,6 @@ const About: React.FC = () => (
                 <p>I'm a JavaScript developer working at Keeper Security.</p>
                 <p>I'm creating the <a href="https://madisonkanna.com/codebookclub">CodeBookClub.</a></p>
                 <p>I'm living in California.</p>
-                <h3>Top 5 favorite books:</h3>
-                <p>The Worldy Philosophers.</p>
-                <p>Sense and Sensibility.</p>
-                <p>Intro To Computing.</p>
-                <p>Atlas Shrugged.</p>
-                <p>Discover Your Inner Economist.</p>
                 <h3>My most read articles</h3>
                                 <p><a href="https://www.madisonkanna.com/why-im-glad-i-grew-up-playing-neopets/">Why I'm Glad I Grew Up Playing Neopets</a></p>
                 <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
