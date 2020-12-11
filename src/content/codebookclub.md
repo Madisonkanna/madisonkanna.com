@@ -29,22 +29,19 @@ We have a public calender for the club [here](https://calendar.google.com/calend
 
 # CodeWars Group Coding Sessions.
 
-Every other Sunday, we have a group coding session. 
+Every Sunday, we have a group coding session. 
 
 **What:** We hold group coding sessions, where we tackle CodeWars problems together. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
 
-***When:*** Starts at 2:00PM PST/5PM EST and ends one hour later.
+***When:*** Every Sunday at either 2:30PM PST/5:30PM PST or 2:00PM PST/5PM EST. Alternates each week and goes for 1 hour. Check calender for specifics.
 
 **Where:** On Zoom. Link to the call will be given to you when you join the club.
-
 
 # You Don't Know JS Discussion Group.
 
 **What**: You Don't Know JS book club. 
 
-**When**: 2pm PST/5pm EST on Sundays.
-
-**Currently Reading:** Scope & Closures, Book 2 in the series. 
+**When**: 2pm PST/5pm EST to 2:30PST/5:30PST every other Sundays.
 
 You can learn more about the You Don't Know JS series [here](https://github.com/getify/You-Dont-Know-JS).
 
