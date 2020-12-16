@@ -21,21 +21,18 @@ If you'd like to join for the first time or find details on a particular meeting
 3. **Introduce yourself** in the discord.
 4. **Remember** that you don't need to attend every meeting or event in the club! Just make it when you can. 
 
-# Live Meetings.
+# Group Coding Sessions.
 
-Every Sunday, the CodeBookClub has a live event. This is either a discussion group about the book we're currently reading, or it is a live CodeWars group coding challenge. 
+Every Sunday, I host a group coding session. Anyone is free to join, participate or just listen. 
+
+**What:** For 1 hour, we tackle CodeWars problems together. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
+
+***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. Every other Sunday, our 2PM meetinb begins with a 30 minute discsion of a chapter from the current book we're reading (see below for more details). 
+
+**Where:** A link to the video call will be given to you when you join the club. 
 
 We have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact Zoom link you'll need to join and a notification on your calender before the event starts. 
 
-# CodeWars Group Coding Sessions.
-
-Every Sunday, we have a group coding session. 
-
-**What:** We hold group coding sessions, where we tackle CodeWars problems together. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
-
-***When:*** Every Sunday at either 2:30PM PST/5:30PM PST or 2:00PM PST/5PM EST. Alternates each week and goes for 1 hour. Check calender for specifics.
-
-**Where:** On Zoom. Link to the call will be given to you when you join the club.
 
 # You Don't Know JS Discussion Group.
 
@@ -48,7 +45,7 @@ You can learn more about the You Don't Know JS series [here](https://github.com/
 Feel free to join the weekly reading at any time. You don't have to come to every meeting, and we'll go over discussion questions to cement what we learned, and help each other get clarity on whatever concepts or ideas we are still confused on or struggling with.
 Kyle Simpson himself recently joined our live call for a Q&A session!
 
-**Where:** On Zoom. Link to the call will be given to you when you join the club.
+**Where:** Video call. Link to the call will be given to you when you join the club.
 
 # Intro To Computing reading.
 
