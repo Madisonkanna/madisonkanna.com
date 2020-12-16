@@ -15,7 +15,7 @@ If you'd like to join me in completing this certification, [sign up to my code c
 
 My goal is to upload a new video each week and finish the certification in 10 weeks.
 
-1. [Basic JavaScript](https://www.youtube.com/watch?v=xfdbfjP6mVk&feature=youtu.be) - Video 1 complete
+1. [Basic JavaScript](https://www.youtube.com/watch?v=Ko8ThPJPQ0o&list=PLWfQIkV7as96aCvX33VKW1VD804Fj9_on) - Incomplete
 2. *ES6* - Incomplete
 3. Regular Expressions *- Incomplete*
 4. Debugging *- Incomplte*
