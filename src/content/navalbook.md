@@ -1,6 +1,6 @@
 ---
 title: The Almanack of Naval Ravikant
-date: 2020-12-10T22:40:32.169Z
+date: 2020-12-05T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
