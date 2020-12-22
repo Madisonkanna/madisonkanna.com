@@ -1,6 +1,6 @@
 ---
 title: JavaScript Variables – A Beginner's Guide to var, const, and let
-date: 2020-11-30T22:40:32.169Z
+date: 2020-12-13T22:40:32.169Z
 layout: post
 author: [Madison]
 draft: false
