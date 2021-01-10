@@ -22,7 +22,7 @@ Instead of trying to be well-rounded, T.K suggests, follow your natural curiosit
 
 A few months ago in an airport bookstore, I picked up a novel about a girl who travels to many countries with her lover, a man who can also turn into a tiger. After this, I couldn’t help but pick up books on the history of different countries and from there I started reading books on how geography affects history. I began to feel hooked on this subject, and it was because I allowed myself to be irresponsibily curious.
 
-I followed my curiosity and it led me to a fascination with one of those subjects that I was once told a well-rounded person needed to study. Except I’ll never be well-roundeed, and I don’t study this subject. I devour it and I’m consumed by it. I don’t need to prove in a conversation that I know about this topic or any other. I don’t need to learn for anyone but me.
+I followed my curiosity and it led me to a fascination with one of those subjects that I was once told a well-rounded person needed to study. Except I’ll never be well-rounded, and I don’t study this subject. I devour it and I’m consumed by it. I don’t need to prove in a conversation that I know about this topic or any other. I don’t need to learn for anyone but me.
 
 I don’t need to be well-rounded, and neither do you. Learn from others, be genuine about what you don’t know and share what you do.
 
