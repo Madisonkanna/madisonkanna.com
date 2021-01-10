@@ -88,7 +88,7 @@ const SubscribeOverlay = styled.div<SubscribeOverlayProps>`
     color: #fff;
     font-size: 1.7rem;
     line-height: 38px;
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
     /* background: linear-gradient(
       color(var(--blue) whiteness(+7%)),
@@ -202,9 +202,9 @@ const SubscribeOverlayDescription = styled.p`
   margin: 0 auto 50px;
   max-width: 650px;
   color: #fff;
-  font-family: Georgia, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 2.4rem;
   line-height: 1.3em;
-  font-weight: 300;
+  font-weight: 200;
   opacity: 0.8;
 `;

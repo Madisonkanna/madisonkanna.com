@@ -36,7 +36,7 @@ export const PostFullContent = styled.section`
   margin: 0 auto;
   padding: 0 170px 6vw;
   min-height: 230px;
-  font-family: Georgia, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 2rem;
   line-height: 1.6em;
   background: #fff;
@@ -184,7 +184,7 @@ export const PostFullContent = styled.section`
     padding: 0 5px 2px;
     font-size: 0.8em;
     line-height: 1em;
-    font-weight: 400 !important;
+    font-weight: 300 !important;
     /* background: var(--whitegrey); */
     background: ${colors.whitegrey};
     border-radius: 3px;
@@ -269,7 +269,7 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0 0.4em;
     font-size: 4.2rem;
     line-height: 1.25em;
-    font-weight: 600;
+    font-weight: 500;
   }
   p + h1 {
     margin-top: 0.8em;
@@ -285,7 +285,7 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0 0.4em;
     font-size: 3.2rem;
     line-height: 1.25em;
-    font-weight: 600;
+    font-weight: 500;
   }
   p + h2 {
     margin-top: 0.8em;
@@ -302,7 +302,7 @@ export const PostFullContent = styled.section`
     margin: 0.5em 0 0.2em;
     font-size: 2.5rem;
     line-height: 1.3em;
-    font-weight: 600;
+    font-weight: 500;
   }
   h2 + h3 {
     margin-top: 0.7em;
@@ -318,7 +318,7 @@ export const PostFullContent = styled.section`
   h4 {
     margin: 0.5em 0 0.2em;
     font-size: 2.5rem;
-    font-weight: 600;
+    font-weight: 500;
   }
   h2 + h4 {
     margin-top: 0.7em;
@@ -341,7 +341,7 @@ export const PostFullContent = styled.section`
     border: 0;
     /* color: var(--blue); */
     color: ${colors.blue};
-    font-family: Georgia, serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center;
@@ -365,7 +365,7 @@ export const PostFullContent = styled.section`
   h6 {
     margin: 0.5em 0 0.2em 0;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: 600;
   }
   @media (max-width: 800px) {
     h6 {
@@ -424,7 +424,7 @@ export const PostFullContent = styled.section`
     /* color: var(--darkgrey); */
     color: ${colors.darkgrey};
     font-size: 1.2rem;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0.2px;
     text-align: left;
     text-transform: uppercase;

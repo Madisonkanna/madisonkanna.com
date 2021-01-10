@@ -190,7 +190,7 @@ const PostCardPrimaryTag = styled.div`
   /* color: var(--blue); */
   color: ${colors.blue};
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.2px;
   text-transform: uppercase;
 `;
@@ -206,7 +206,7 @@ const PostCardTitle = styled.h2`
 `;
 
 const PostCardExcerpt = styled.section`
-  font-family: Georgia, serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 
   @media (prefers-color-scheme: dark) {
     /* color: color(var(--midgrey) l(+10%)); */
@@ -240,7 +240,7 @@ const PostCardBylineContent = styled.div`
   a {
     /* color: color(var(--darkgrey) l(+20%)); */
     color: ${lighten('0.2', colors.darkgrey)};
-    font-weight: 600;
+    font-weight: 500;
   }
 
   @media (prefers-color-scheme: dark) {

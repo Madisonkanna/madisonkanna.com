@@ -131,7 +131,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
           }
           html {
             box-sizing: border-box;
-            font-family: sans-serif;
+              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 
             -ms-text-size-adjust: 100%;
             -webkit-text-size-adjust: 100%;
@@ -277,11 +277,9 @@ const IndexLayout: React.FC<IndexProps> = props => {
           body {
             overflow-x: hidden;
             color: ${lighten('-0.3', colors.midgrey)};
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-              Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             font-size: 1.6rem;
             line-height: 1.6em;
-            font-weight: 400;
             font-style: normal;
             letter-spacing: 0;
             text-rendering: optimizeLegibility;
@@ -372,7 +370,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
             margin: 0 20px 0 0;
             width: 120px;
             color: ${colors.darkgrey};
-            font-weight: 500;
+            font-weight: 400;
             text-align: right;
           }
 
@@ -390,7 +388,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
           blockquote p {
             margin: 0.8em 0;
             font-size: 1.2em;
-            font-weight: 300;
+            font-weight: 200;
           }
 
           blockquote small {
@@ -424,14 +422,14 @@ const IndexLayout: React.FC<IndexProps> = props => {
           h6 {
             margin-top: 0;
             line-height: 1.15;
-            font-weight: 600;
+            font-weight: 500;
             text-rendering: optimizeLegibility;
           }
 
           h1 {
             margin: 0 0 0.5em 0;
             font-size: 5.5rem;
-            font-weight: 600;
+            font-weight: 500;
           }
           @media (max-width: 500px) {
             h1 {
@@ -452,7 +450,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
           h3 {
             margin: 1.5em 0 0.5em 0;
             font-size: 1.8rem;
-            font-weight: 500;
+            font-weight: 400;
           }
           @media (max-width: 500px) {
             h3 {
@@ -463,19 +461,19 @@ const IndexLayout: React.FC<IndexProps> = props => {
           h4 {
             margin: 1.5em 0 0.5em 0;
             font-size: 1.6rem;
-            font-weight: 500;
+            font-weight: 400;
           }
 
           h5 {
             margin: 1.5em 0 0.5em 0;
             font-size: 1.4rem;
-            font-weight: 500;
+            font-weight: 400;
           }
 
           h6 {
             margin: 1.5em 0 0.5em 0;
             font-size: 1.4rem;
-            font-weight: 500;
+            font-weight: 400;
           }
 
           /* globals from screen.css */

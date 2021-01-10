@@ -176,7 +176,7 @@ const SiteNavLeft = styled.div`
   -webkit-overflow-scrolling: touch;
   margin-right: 10px;
   padding: 10px 0 80px;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.2px;
   text-transform: uppercase;
   white-space: nowrap;
@@ -283,7 +283,7 @@ const NavPostTitle = styled.span`
   top: 9px;
   color: #fff;
   font-size: 1.7rem;
-  font-weight: 400;
+  font-weight: 300;
   text-transform: none;
   opacity: 0;
   transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);

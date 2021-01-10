@@ -104,7 +104,7 @@ const SubscribeFormButton = styled.button`
   color: #fff;
   font-size: 1.5rem;
   line-height: 39px;
-  font-weight: 400;
+  font-weight: 300;
   text-align: center;
   /* background: linear-gradient(
     color(var(--blue) whiteness(+7%)),

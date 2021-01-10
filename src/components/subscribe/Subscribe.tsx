@@ -74,7 +74,7 @@ const SubscribeFormTitle = css`
   color: ${colors.darkgrey};
   font-size: 3.5rem;
   line-height: 1;
-  font-weight: 600;
+  font-weight: 500;
 
   @media (max-width: 650px) {
     font-size: 2.4rem;

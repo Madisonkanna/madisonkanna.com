@@ -118,13 +118,13 @@ const ReadNextCardHeaderTitle = styled.h3`
   color: rgba(255, 255, 255, 0.6);
   font-size: 1.2rem;
   line-height: 1em;
-  font-weight: 300;
+  font-weight: 200;
   letter-spacing: 0.4px;
   text-transform: uppercase;
 
   a {
     color: #fff;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
     opacity: 0.8;
   }
@@ -163,7 +163,7 @@ const ReadNextCardContent = styled.div`
     margin: 0;
     font-size: 1.6rem;
     line-height: 1.35em;
-    font-weight: 600;
+    font-weight: 500;
   }
 
   li a {
@@ -181,7 +181,7 @@ const ReadNextCardMeta = styled.div`
   margin-top: 2px;
   font-size: 1.2rem;
   line-height: 1.4em;
-  font-weight: 400;
+  font-weight: 300;
 
   p {
     margin: 0;

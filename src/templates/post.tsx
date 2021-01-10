@@ -331,17 +331,17 @@ const PostFullTags = styled.section`
   color: ${colors.midgrey};
   font-size: 1.3rem;
   line-height: 1.4em;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
 `;
 
 const PostFullCustomExcerpt = styled.p`
   margin: 20px 0 0;
   color: var(--midgrey);
-  font-family: Georgia, serif;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 2.3rem;
   line-height: 1.4em;
-  font-weight: 300;
+  font-weight: 200;
 
   @media (max-width: 500px) {
     font-size: 1.9rem;
@@ -387,7 +387,7 @@ const PostFullByline = styled.div`
     margin: 0 0 3px;
     font-size: 1.3rem;
     line-height: 1.4em;
-    font-weight: 500;
+    font-weight: 400;
   }
 
   .post-full-byline-meta h4 a {

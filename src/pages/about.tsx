@@ -56,11 +56,7 @@ const About: React.FC = () => (
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
-                <h5>
                Hey! I'm Madison. Thanks for visiting my  blog.
-                </h5>
-
-                {/* <p>I'm a self-taught software developer and I share resources and write tutorials to help others teach themselves to code. From coding tutorials to notes on my favorite books to more personal posts, my website is where I teach, learn in public and document my life. </p> */}
                 <h3>Me in 20 seconds</h3>
                 <p>I'm a JavaScript developer working at Keeper Security.</p>
                 <p>I'm creating the <a href="https://madisonkanna.com/codebookclub">CodeBookClub.</a></p>
