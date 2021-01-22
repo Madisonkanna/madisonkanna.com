@@ -54,7 +54,7 @@ Constitution protects gov from limiting our speech, but has no say over the free
 
 **Before any question of free speech comes the question of “who controls the master switch.”**
 
-## The Internet and the Cycle. <a name=“internet”></a>
+# The Internet and the Cycle. <a name="internet"></a>
 
 Internet and the web are open systems with billions of users and thousands of firms operating on them. The history of information industries shows that such ecosystems tend to be short-lived.
 
