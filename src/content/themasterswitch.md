@@ -46,7 +46,7 @@ Cons:
 Pros: 
 - Centralized power can be more efficient + make the product better and sometimes cheaper. Monopolies can sometimes provide us with dazzling innovations and conveniences.
 
-## Industrial structure and free speech. <a name="freespeech"></a>
+# Industrial structure and free speech <a name="freespeech"></a>
 
 industry structure determines the freedom of expression in the underlying medium. It is industrial structure that determines the limits of free speech. 
 
@@ -80,7 +80,7 @@ Ultimately, users have an incontrovertible preference for convenience over almos
 
 "If we do not take this moment to secure our sovereignty over the choices that the information age has allowed us to enjoy, we cannot reasonably blame its los on those who are free to enrich themselves by taking from us in a manner history has foretold."
 
-# Questions after reading:  <a name=“questions”></a>
+# Questions after reading: <a name="questions"></a>
 
 - How was internet become more / less closed since book’s publication in 2011? How have the author’s views shifted? 
 - Most of us care more about convenience than we do control when it comes to our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people?
