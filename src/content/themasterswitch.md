@@ -8,7 +8,7 @@ image: img/masterswitch.JPG
 tags: ["Bookshelf"]
 --- 
 
-My notes from the book [The Master Switch](_https://amzn.to/3p7GUs3_) by Tim Wu.
+My notes from the book [The Master Switch](https://amzn.to/3p7GUs3) by Tim Wu.
  
 A book about the **Cycle**: the oscillation of information industries from open systems (a freely accessible channel) to closed systems (strictly controlled and ruled by a monopolist). Book explores how the cycle happened to radio, telegraph, film, and explores the question: will it happen to the internet? Will the internet become a closed system?
  
