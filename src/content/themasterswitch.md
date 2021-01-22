@@ -21,12 +21,13 @@ A book about the **Cycle**: the oscillation of information industries from open 
 # The Cycle <a name="cycle"></a>
 
 Phases of the Cycle: 
-- Outsiders, disruptive founders, create new tech. Radio, telephone, film (and now internet) all started as mediums accessible to any hobbyist. - Tech turns from someone’s hobby to someone’s industry. 
+- Outsiders, disruptive founders create new tech. Radio, telephone, film (and now internet) all started as mediums accessible to any hobbyist. 
+- Tech turns from someone’s hobby to someone’s industry. 
 - The system then becomes centralized and closes as a monopolist takes over.
 - Monopoly can end, starting the cycle again, or continue. 
 
 ## Open systems.
-Measure how ‘open’ a system is by the cost of entry: the monetary cost of getting into the business with a reasonable shot at reaching customers. Example) If you want to start a competitive mobile phone service, the price of entry was north of 10 billion. So for most of the 20th and 21st-century, the phone market has been effectively closed. 
+Measure how ‘open’ a system is by the cost of entry: the monetary cost of getting into the business with a reasonable shot at reaching customers. Example: If you want to start a competitive mobile phone service, the price of entry was north of 10 billion. So for most of the 20th and 21st-century, the phone market has been effectively closed. 
 
 ## Ways systems begin to close:
 - Capital interests spy the potential for vastly increased profit through monopoly. 
@@ -34,23 +35,26 @@ Measure how ‘open’ a system is by the cost of entry: the monetary cost of ge
  
 ## Ways systems can open up again:
 - Disruptive founders invent.
-- Gov intervenes, break up monopolies which historically can allow innovation to flourish again, as well as allow restrictions on free speech to lift.
+- Gov intervenes, break up monopolies which can allow innovation to flourish again, an can also sometimes allow restrictions on free speech to lift.
 
 "Whatever is closed for too long is ripe for ingenuity’s assault. A closed industry can be opened anew, giving way to all sorts of technical possibilities and expressive uses for the medium before the effort to close the system likewise begins."
 
 ## Pros/cons of closed systems:
 
-Pros: centralized power can be more efficient + make the product better and sometimes cheaper. Monopolies can provide us with dazzling innovations and conveniences.
-
 Cons: 
 - Less innovation. Monopolies don’t want to destroy their own business with destructive innovation. Example: Magnetic tape was suppressed by AT&T as AT&T believed it would replace the telephone. Monopoly’s interests can be at odds with the advancement of knowledge. 
 - The monopoly can restraint ideas and images, which can amount to censorship. Monopoly are also easy targets for extreme actors who want to limit speech. Hollywood production codes. Example) Movie industry at one point had censorship imposed upon it (Motion Picture Production Code), which censored films, but when the monopoly was broken up, these went away.
 
+Pros: 
+- Centralized power can be more efficient + make the product better and sometimes cheaper. Monopolies can sometimes provide us with dazzling innovations and conveniences.
+
 ## Industrial structure and free speech. <a name="freespeech"></a>
 
-industry structure determines the freedom of expression in the underlying medium. It is industrial structure that determines the limits of free speech. Constitution protects gov from limiting our speech, but has no say over the free market for speech. We have a “marketplace of ideas” a space where every member of society is, by their right, free to peddle his creed. Yet the shape or even existence of any such marketplace depends far less on our abstract values than on the structure of the communications and culture industries.
+industry structure determines the freedom of expression in the underlying medium. It is industrial structure that determines the limits of free speech. 
 
-Before any question of free speech comes the question of “who controls the master switch.” 
+Constitution protects gov from limiting our speech, but has no say over the free market for speech. We have a “marketplace of ideas” a space where every member of society is, by their right, free to peddle his creed. Yet the shape or even existence of any such marketplace depends far less on our abstract values than on the structure of the communications and culture industries.
+
+**Before any question of free speech comes the question of “who controls the master switch.”**
 
 ## The Internet and the Cycle. <a name=“internet”></a>
 
@@ -58,11 +62,13 @@ Internet and the web are open systems with billions of users and thousands of fi
 
 Yet the internet's structure is inherently more open than other information technologies that preceded it. When a system is open and software can be written for it, more people will use it. Google’s Android, an open-source platform for phones, can reach more customers as Apple’s iOS only works with iPhone and is more closed.
  
-So can open design of the internet make it insusceptible to the cycle? Does the cycle apply to the internet? 
+**So can open design of the internet make it insusceptible to the cycle? Does the cycle apply to the internet?**
 
 So far, the internet has shown itself to be susceptible to network economies, with efficiencies naturally arising from centralized control. 
 
-Google is an information empire more committed to openness than any information empre before it, yet faces the paradoxical reality that some of the most effective ways of competing against Apple involve becoming more like Apple. That is, becoming more closed. Like Apple, Google has begun to block apps that interfere with the revenue models of itself. What now seems possible if unprecedented, is a well-defended Internet monopolist running a mostly open system.  If we reach this point the question is what matters more to a monopoly—openings or supremacy? 
+What now seems possible if unprecedented, is a well-defended Internet monopolist running a mostly open system. 
+
+Google is an information empire more committed to openness than any information empre before it, yet faces the paradoxical reality that some of the most effective ways of competing against Apple involve becoming more like Apple. That is, to become more closed. Like Apple, Google has begun to block apps that interfere with the revenue models of itself.  If we reach the point of a well-defuned Internet monopolist running a mostly open system, the question is what matters more to a monopoly—openness or supremacy? 
 
 The question of the internet’s future is not whether a monopoly is possible—in various markets we have already seen the evidence that it is— but how long such a concentration can endure. 
 
@@ -78,6 +84,6 @@ Ultimately, users have an incontrovertible preference for convenience over almos
 
 ## Questions after reading: <a name=“questions”></a>
 
--How was internet become more / less closed since book’s publication in 2011? How has author’s views shifted? 
--Most of us care more about convenience than we do control over our information tools. Are the events of early 2021 causing this to shift? How much?
--How does/could/will blockchain technology factor into the idea of decentralized communication? 
+- How was internet become more / less closed since book’s publication in 2011? Have the author’s views shifted? 
+- Most of us care more about convenience than we do control over our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people? Regardless of the debate as to whether Trump should've been banned, it seems there's an increasing amount of people who feel uneasy about big tech's power.
+- How could/will blockchain technology alter change the cycle? Could it?
