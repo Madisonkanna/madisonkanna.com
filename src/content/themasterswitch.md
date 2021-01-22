@@ -60,7 +60,7 @@ Constitution protects gov from limiting our speech, but has no say over the free
 
 Internet and the web are open systems with billions of users and thousands of firms operating on them. The history of information industries shows that such ecosystems tend to be short-lived.
 
-Yet the internet's structure is inherently more open than other information technologies that preceded it. When a system is open and software can be written for it, more people will use it. Google’s Android, an open-source platform for phones, can reach more customers as Apple’s iOS only works with iPhone and is more closed.
+Yet many would say Silicon Valley targets stagnant monopolists and challenge the existing order, leaving no monopoly dominant for long. And the internet's structure is inherently more open than other information technologies that preceded it. When a system is open and software can be written for it, more people will use it. Google’s Android, an open-source platform for phones, can reach more customers as Apple’s iOS only works with iPhone and is more closed.
  
 **So can open design of the internet make it insusceptible to the cycle? Does the cycle apply to the internet?**
 
