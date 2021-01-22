@@ -12,10 +12,10 @@ My notes from the book [The Master Switch](https://amzn.to/3p7GUs3) by Tim Wu.
  
 A book about the **Cycle**: the oscillation of information industries from open systems (a freely accessible channel) to closed systems (strictly controlled and ruled by a monopolist). Book explores how the cycle happened to radio, telegraph, film, and explores the question: will it happen to the internet? Will the internet become a closed system?
  
-* [The Cycle](#cycle).
-* [Industrial structure and free speech](#freespeech).
-* [The Internet and the Cycle](#internet).
-* [Questions after reading.](#questions).
+* [The Cycle.](#cycle)
+* [Industrial structure and free speech].(#freespeech)
+* [The Internet and the Cycle.](#internet)
+* [Questions after reading.](#questions)
 
 
 # The Cycle <a name="cycle"></a>
@@ -81,7 +81,3 @@ Ultimately, users have an incontrovertible preference for convenience over almos
 -How was internet become more / less closed since book’s publication in 2011? How has author’s views shifted? 
 -Most of us care more about convenience than we do control over our information tools. Are the events of early 2021 causing this to shift? How much?
 -How does/could/will blockchain technology factor into the idea of decentralized communication? 
-
-## More links 
-
-https://medium.com/for-collective/the-big-debate-tim-wu-vs-tyler-cowen-on-antitrust-policy-cb323e79992c
