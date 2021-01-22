@@ -17,7 +17,6 @@ A book about the **Cycle**: the oscillation of information industries from open 
 * [The Internet and the Cycle.](#internet)
 * [Questions after reading.](#questions)
 
-
 # The Cycle <a name="cycle"></a>
 
 Phases of the Cycle: 
@@ -81,8 +80,8 @@ Ultimately, users have an incontrovertible preference for convenience over almos
 
 "If we do not take this moment to secure our sovereignty over the choices that the information age has allowed us to enjoy, we cannot reasonably blame its los on those who are free to enrich themselves by taking from us in a manner history has foretold."
 
-# Questions after reading: <a name="questions"></a>
+# Questions after reading:  <a name=“questions”></a>
 
 - How was internet become more / less closed since book’s publication in 2011? How have the author’s views shifted? 
-- Most of us care more about convenience than we do control when it comes to our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people? Regardless of the debate as to whether Trump should've been banned, it seems there's an increasing amount of people who feel uneasy about big tech's power.
+- Most of us care more about convenience than we do control when it comes to our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people?
 - How could/will blockchain technology change the cycle?
