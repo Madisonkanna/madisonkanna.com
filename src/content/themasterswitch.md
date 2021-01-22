@@ -24,7 +24,7 @@ Phases of the Cycle:
 - Outsiders, disruptive founders create new tech. Radio, telephone, film (and now internet) all started as mediums accessible to any hobbyist. 
 - Tech turns from someone’s hobby to someone’s industry. 
 - The system then becomes centralized and closes as a monopolist takes over.
-- Monopoly can end, starting the cycle again, or continue. 
+- Monopoly can end, or continue. Cycle restarts.
 
 ## Open systems.
 Measure how ‘open’ a system is by the cost of entry: the monetary cost of getting into the business with a reasonable shot at reaching customers. Example: If you want to start a competitive mobile phone service, the price of entry was north of 10 billion. So for most of the 20th and 21st-century, the phone market has been effectively closed. 
@@ -40,8 +40,7 @@ Measure how ‘open’ a system is by the cost of entry: the monetary cost of ge
 "Whatever is closed for too long is ripe for ingenuity’s assault. A closed industry can be opened anew, giving way to all sorts of technical possibilities and expressive uses for the medium before the effort to close the system likewise begins."
 
 ## Pros/cons of closed systems:
-
-Cons: 
+Cons:
 - Less innovation. Monopolies don’t want to destroy their own business with destructive innovation. Example: Magnetic tape was suppressed by AT&T as AT&T believed it would replace the telephone. Monopoly’s interests can be at odds with the advancement of knowledge. 
 - The monopoly can restraint ideas and images, which can amount to censorship. Monopoly are also easy targets for extreme actors who want to limit speech. Hollywood production codes. Example) Movie industry at one point had censorship imposed upon it (Motion Picture Production Code), which censored films, but when the monopoly was broken up, these went away.
 
@@ -72,9 +71,9 @@ Google is an information empire more committed to openness than any information 
 
 The question of the internet’s future is not whether a monopoly is possible—in various markets we have already seen the evidence that it is— but how long such a concentration can endure. 
 
-## Separation principle & net neautrality:
+## Separation principle & net neautrality.
 
-Separations as “an effort to prevent any single element of society from gaining dominance over the whole, and by such dominance becoming tyrannical. Separation principles could make it possible for us to enjoy the short-term benefits of monopoly without the long-term oppression. Net neutrality is a ban on discrimionation and blocking on the internet, but applied only to the wired web — wireless is exempt.
+Separations defined as “an effort to prevent any single element of society from gaining dominance over the whole, and by such dominance becoming tyrannical. Separation principles could make it possible for us to enjoy the short-term benefits of monopoly without the long-term oppression. Net neutrality is a ban on discrimionation and blocking on the internet, but applied only to the wired web — wireless is exempt.
 
 ## User preferences. 
 
@@ -84,6 +83,6 @@ Ultimately, users have an incontrovertible preference for convenience over almos
 
 # Questions after reading: <a name="questions"></a>
 
-- How was internet become more / less closed since book’s publication in 2011? Have the author’s views shifted? 
-- Most of us care more about convenience than we do control over our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people? Regardless of the debate as to whether Trump should've been banned, it seems there's an increasing amount of people who feel uneasy about big tech's power.
-- How could/will blockchain technology alter change the cycle? Could it?
+- How was internet become more / less closed since book’s publication in 2011? How have the author’s views shifted? 
+- Most of us care more about convenience than we do control when it comes to our information tools. Are the events of early 2021 (Trump ban, Parler removal from the app store) causing this to change for a nontrivial number of people? Regardless of the debate as to whether Trump should've been banned, it seems there's an increasing amount of people who feel uneasy about big tech's power.
+- How could/will blockchain technology change the cycle?
