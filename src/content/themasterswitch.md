@@ -34,7 +34,7 @@ Measure how ‘open’ a system is by the cost of entry: the monetary cost of ge
  
 ## Ways systems can open up again:
 - Disruptive founders invent.
-- Gov intervenes, break up monopolies which can allow innovation to flourish again, an can also sometimes allow restrictions on free speech to lift.
+- Gov intervenes, break up monopolies which can allow innovation to flourish again, can also sometimes allow restrictions on free speech to lift.
 
 "Whatever is closed for too long is ripe for ingenuity’s assault. A closed industry can be opened anew, giving way to all sorts of technical possibilities and expressive uses for the medium before the effort to close the system likewise begins."
 
