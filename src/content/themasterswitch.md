@@ -41,7 +41,7 @@ Measure how ‘open’ a system is by the cost of entry: the monetary cost of ge
 ## Pros/cons of closed systems:
 Cons:
 - Less innovation. Monopolies don’t want to destroy their own business with destructive innovation. Example: Magnetic tape was suppressed by AT&T as AT&T believed it would replace the telephone. Monopoly’s interests can be at odds with the advancement of knowledge. 
-- The monopoly can restraint ideas and images, which can amount to censorship. Monopoly are also easy targets for extreme actors who want to limit speech. Hollywood production codes. Example) Movie industry at one point had censorship imposed upon it (Motion Picture Production Code), which censored films, but when the monopoly was broken up, these went away.
+- The monopoly can restrain certain ideas and images, which can amount to censorship. Monopoly are also easy targets for extreme actors who want to limit speech. Hollywood production codes. Example) Movie industry at one point had censorship imposed upon it (Motion Picture Production Code), which censored films, but when the monopoly was broken up, these went away.
 
 Pros: 
 - Centralized power can be more efficient + make the product better and sometimes cheaper. Monopolies can sometimes provide us with dazzling innovations and conveniences.
