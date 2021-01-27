@@ -1,5 +1,5 @@
 ---
-title: The Master Swith
+title: The Master Switch
 date: 2021-01-22T22:40:32.169Z
 layout: post
 author: [Madison]
