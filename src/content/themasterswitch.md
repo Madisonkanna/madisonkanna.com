@@ -1,5 +1,5 @@
 ---
-title: The Master Switch
+title: The Master Switch Book Summary
 date: 2021-01-22T22:40:32.169Z
 layout: post
 author: [Madison]
@@ -8,7 +8,7 @@ image: img/masterswitch.JPG
 tags: ["Bookshelf"]
 --- 
 
-My notes from the book [The Master Switch](https://amzn.to/3p7GUs3) by Tim Wu.
+My summary of the book [The Master Switch](https://amzn.to/3p7GUs3) by Tim Wu.
  
 A book about the **Cycle**: the oscillation of information industries from open systems (a freely accessible channel) to closed systems (strictly controlled and ruled by a monopolist). Book explores how the cycle happened to radio, telegraph, telephone, film, and explores the question: will it happen to the internet? Will the internet become a closed system?
  
