@@ -24,7 +24,7 @@ In this article, I’ll go over this four-step problem-solving method that you c
 
 Solving coding problems is not only part of the developer job interview process—it’s what a developer does all day. After all, writing code is problem-solving.
 
-A method for solving problems
+# A method for solving problems
 This method is from the book How to Solve It by George Pólya. It originally came out in 1945 and has sold over one million copies.
 
 His problem-solving method has been used and taught by many programmers, from computer science professors (see Udacity’s Intro to CS course taught by professor David Evans) to modern web development teachers like Colt Steele.
@@ -35,10 +35,11 @@ Create a function that adds together two numbers and returns that value.
 
 There are four steps to the problem-solving method:
 
-Understand the problem.
-Devise a plan.
-Carry out the plan.
-Look back.
+## Understand the problem.
+## Devise a plan.
+## Carry out the plan.
+## Look back.
+
 Let’s get started with step one.
 
 # Step 1: Understand the problem.
