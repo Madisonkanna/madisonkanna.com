@@ -1,5 +1,5 @@
 ---
-title: How to Solve Coding Problems with a Simple Four Step Method
+title: How to Solve Coding Problems
 date: 2021-02-08T22:40:32.169Z
 layout: post
 author: [Madison]
