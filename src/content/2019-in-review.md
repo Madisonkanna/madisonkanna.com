@@ -20,7 +20,7 @@ I was lucky enough to attend several Egghead workshops this year as an Egghead [
 
 I was able to attend [Bradfield](https://bradfieldcs.com/). Bradfield teaches computer science to professional developers with classes that usually include hands-on exercises and discussions. I learned so much more computer science fundamentals than I could have just learning on my own. I got to learn from a smart and passionate teacher and I got to learn with other curious software engineers. After growing up homeschooled and leaving college, I never realized how amazing learning in a classroom can be. Bradfield was very challenging for me but not too overwhelming. I hope to take at least two more classes there in 2020. 
 
-I left a job and a serious relationship. Not sure if I would call these accomplishments at all, but sometimes you know when something isn't going anywhere and you have to make a painful decision. I also went from working remotely and visting Pennsylvania as much as I could to planting myself back in California, and I've felt so much happier now that I'm not trying to live in two states at once.
+I left a job and a serious relationship. Not sure if I would call these accomplishments at all, but sometimes you know when something isn't going anywhere and you have to make a painful decision. I also went from working remotely and visiting Pennsylvania as much as I could to planting myself back in California, and I've felt so much happier now that I'm not trying to live in two states at once.
 
 ## What I could have done better
 
@@ -37,8 +37,6 @@ Continue to write daily and blog twice per month about JavaScript or anything el
 Keep reading about cryptography and gain a deeper understanding of it. 
 
 Start my coding book club and continue my book club with my dad.
-
-Release my course again--more on that later. 
 
 Continue working on my fitness and health goals, as well as my cooking goals.
 
