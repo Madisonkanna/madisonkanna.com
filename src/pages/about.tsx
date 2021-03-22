@@ -8,6 +8,12 @@ import SiteNav from '../components/header/SiteNav';
 import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
+
+import Christmas from '../content/img/christmas.png'
+import picture from '../content/img/picture.jpeg'
+import dadbday from '../content/img/dadbday.png'
+import mebday from '../content/img/mebday.png'
+import meandbub from '../content/img/meandbub.jpg'
 import {
   inner,
   outer,
@@ -18,6 +24,16 @@ import {
 } from '../styles/shared';
 import { NoImage, PostFull, PostFullHeader, PostFullTitle } from '../templates/post';
 import { colors } from '../styles/colors';
+
+const PhotoGrid = css`
+  display: grid;
+  grid-template-columns: repeat(4, 1fr)
+
+
+  
+
+
+`;
 
 const PageTemplate = css`
   .site-main {
@@ -85,9 +101,21 @@ const About: React.FC = () => (
                 <h3>Connect with me</h3>
                 <p>Join over 4,000 people and <a href="https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f">subscribe</a> to my email list.</p>
                 <p>Feel free to message me on <a href="https://twitter.com/Madisonkanna">Twitter</a> or email me: Madisonkanna@gmail.com. </p>
+
               </div>
             </PostFullContent>
+ 
+                <div css={PhotoGrid}>
+
+                  <img src={Christmas} /> 
+                  <a href="https://www.instagram.com/p/CGsd-49Aeka/"><img  src={mebday} /> </a>
+                  <img src={dadbday} /> 
+                  <img src={meandbub} /> 
+                  <img src={picture} /> 
+
+                </div>
           </article>
+
         </div>
       </main>
       <Footer />
