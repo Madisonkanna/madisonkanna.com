@@ -9,11 +9,7 @@ import { PostFullContent } from '../components/PostContent';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
 
-// import Christmas from '../content/img/christmas.png'
-// import picture from '../content/img/picture.jpeg'
-// import dadbday from '../content/img/dadbday.png'
-// import mebday from '../content/img/mebday.png'
-// import meandbub from '../content/img/meandbub.jpg'
+
 import {
   inner,
   outer,
@@ -104,16 +100,7 @@ const About: React.FC = () => (
 
               </div>
             </PostFullContent>
-{/*  
-                <div css={PhotoGrid}>
 
-                  <img src={Christmas} /> 
-                  <a href="https://www.instagram.com/p/CGsd-49Aeka/"><img  src={mebday} /> </a>
-                  <img src={dadbday} /> 
-                  <img src={meandbub} /> 
-                  <img src={picture} /> 
-
-                </div> */}
           </article>
 
         </div>
