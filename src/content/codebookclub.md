@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeBookClub: Details, Dates And How To Join A Meeting"
-date: 2020-05-20T22:40:32.169Z
+date: 2021-04-11T22:40:32.169Z
 author: [Madison]
 draft: false
 image: img/codebookclub.jpg
