@@ -33,7 +33,7 @@ Every Sunday, we host a group programming session. Anyone is free to join, parti
 
 **Where:** A link to the video call will be given to you when you join the club. 
 
-We have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact link you'll need to join and a notification on your calender before the event starts. 
+We have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact Zoom link you'll need to join and a notification on your calender before the event starts. 
 
 **Current Schedule (Updated Sunday, April 11th):*
 
@@ -101,4 +101,4 @@ We are currently reading Intro To Computing, an introduction to computer science
 You can learn more about our reading [here](https://docs.google.com/document/d/1SbvZsedIS8-Vguue5HquIs6tobwnrF5uRaXTrOLwwCE/edit?usp=sharing).
 
 
-Again, we have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact link you'll need to join the live meeting, and a notification on your calender about the event before every single event starts. If you don't want to join or discord or are currently unable to, add yourself to the calender above to get notified when every event happens. 
+Again, we have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact Zoom link you'll need to join the live meeting, and a notification on your calender about the event before every single event starts. If you don't want to join or discord or are currently unable to, add yourself to the calender above to get notified when every event happens. 
