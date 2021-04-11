@@ -25,7 +25,7 @@ If you'd like to join for the first time or find details on a particular meeting
 
 Every Sunday, we host a group programming session. Anyone is free to join, participate or just listen. 
 
-**What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
+**What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms.
 
 ***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. 
 
