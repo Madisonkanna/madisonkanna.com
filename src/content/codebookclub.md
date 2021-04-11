@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeBookClub: Details, Dates And How To Join A Meeting"
-date: 2021-04-11T22:40:32.169Z
+date: 2020-04-11T22:40:32.169Z
 author: [Madison]
 draft: false
 image: img/codebookclub.jpg
@@ -43,27 +43,27 @@ We have a public calender for the club [here](https://calendar.google.com/calend
 
 April 25th, 2:30pm - 3:30pm PST: Implement Quick Sort.
 
-*May 2nd, 2:00pm - 3:00pm PST:* Implement Merge Sort.
+**May 2nd, 2:00pm - 3:00pm PST:** Implement Merge Sort.
 
-*May 9th, 2:30pm - 3:30pm PST:8 Typed Arrays.
+**May 9th, 2:30pm - 3:30pm PST:** Typed Arrays.
 
-*May 16th, 2:00pm - 3:00pm PST:* Learn how a stack works. 
+**May 16th, 2:00pm - 3:00pm PST:*** Learn how a stack works. 
 
-*May 23rd, 2:30pm - 3:30pm PST:8 Create a Stack Class.
+**May 23rd, 2:30pm - 3:30pm PST:** Create a Stack Class.
 
-8May 30th, 2:00pm - 3:00pm PST:* Create a Queue class.
+**May 30th, 2:00pm - 3:00pm PST:** Create a Queue class.
 
-*June 6th, 2:30pm - 3:30pm PST:* Create a Priority Queue class.
+**June 6th, 2:30pm - 3:30pm PST:** Create a Priority Queue class.
 
-*June 13th, 2:00pm - 3:00pm PST:* Create a Circular Queue.
+**June 13th, 2:00pm - 3:00pm PST:** Create a Circular Queue.
 
-*June 20th, 2:30pm - 3:30pm PST:* Create a Set Class.
+**June 20th, 2:30pm - 3:30pm PST:** Create a Set Class.
 
-*June 27th, 2:00pm - 3:00pm PST:* Perform a Union on Two Sets.
+**June 27th, 2:00pm - 3:00pm PST:** Perform a Union on Two Sets.
 
-*July 4th:* HOLIDAY. Club pauses.
+**July 4th:** HOLIDAY. Club pauses.
 
-*July 11th: 2:30pm - 3:30pm PST:* Perform an Intersection on Two Sets of Data. 
+**July 11th: 2:30pm - 3:30pm PST:** Perform an Intersection on Two Sets of Data. 
 
 Schedule continues and will be added as July gets closer. 
 
