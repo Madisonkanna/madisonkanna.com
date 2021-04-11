@@ -23,7 +23,7 @@ If you'd like to join for the first time or find details on a particular meeting
 
 # Group Coding Sessions.
 
-Every Sunday, we host a Anyone is free to join, participate or just listen. 
+Every Sunday, we host a group programming session. Anyone is free to join, participate or just listen. 
 
 **What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
 
