@@ -27,7 +27,9 @@ Every Sunday, we host a group programming session. Anyone is free to join, parti
 
 **What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
 
-***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. Every other Sunday, our 2PM meeting begins with a 30 minute discsion of a chapter from the current book we're reading (see below for more details). 
+***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. 
+
+(Every other Sunday, our 2PM meeting begins with a 30 minute discsion of a chapter from the current book we're reading (see 'YDKJS' schedule below for more details). 
 
 **Where:** A link to the video call will be given to you when you join the club. 
 
@@ -35,33 +37,33 @@ We have a public calender for the club [here](https://calendar.google.com/calend
 
 **Current Schedule (Updated Sunday, April 11th):*
 
-April 11th, 2:30pm - 3:30pm PST: Implement Selection Sort.
+*April 11th, 2:30pm - 3:30pm PST:* Implement Selection Sort.
 
-April 18th, 2:00pm - 3:00pm PST: Implement Insertion Sort.
+*April 18th, 2:00pm - 3:00pm PST:8 Implement Insertion Sort.
 
 April 25th, 2:30pm - 3:30pm PST: Implement Quick Sort.
 
-May 2nd, 2:00pm - 3:00pm PST: Implement Merge Sort.
+*May 2nd, 2:00pm - 3:00pm PST:* Implement Merge Sort.
 
-May 9th, 2:30pm - 3:30pm PST: Typed Arrays.
+*May 9th, 2:30pm - 3:30pm PST:8 Typed Arrays.
 
-May 16th, 2:00pm - 3:00pm PST: Learn how a stack works. 
+*May 16th, 2:00pm - 3:00pm PST:* Learn how a stack works. 
 
-May 23rd, 2:30pm - 3:30pm PST: Create a Stack Class.
+*May 23rd, 2:30pm - 3:30pm PST:8 Create a Stack Class.
 
-May 30th, 2:00pm - 3:00pm PST: Create a Queue class.
+8May 30th, 2:00pm - 3:00pm PST:* Create a Queue class.
 
-June 6th, 2:30pm - 3:30pm PST: Create a Priority Queue class.
+*June 6th, 2:30pm - 3:30pm PST:* Create a Priority Queue class.
 
-June 13th, 2:00pm - 3:00pm PST: Create a Circular Queue.
+*June 13th, 2:00pm - 3:00pm PST:* Create a Circular Queue.
 
-June 20th, 2:30pm - 3:30pm PST: Create a Set Class.
+*June 20th, 2:30pm - 3:30pm PST:* Create a Set Class.
 
-June 27th, 2:00pm - 3:00pm PST: Perform a Union on Two Sets.
+*June 27th, 2:00pm - 3:00pm PST:* Perform a Union on Two Sets.
 
-July 4th: HOLIDAY. Club pauses.
+*July 4th:* HOLIDAY. Club pauses.
 
-July 11th: 2:30pm - 3:30pm PST: Perform an Intersection on Two Sets of Data. 
+*July 11th: 2:30pm - 3:30pm PST:* Perform an Intersection on Two Sets of Data. 
 
 Schedule continues and will be added as July gets closer. 
 
