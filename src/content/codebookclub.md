@@ -41,7 +41,7 @@ We have a public calender for the club [here](https://calendar.google.com/calend
 
 **April 18th, 2:00pm - 3:00pm PST:** Implement Insertion Sort.
 
-April 25th, 2:30pm - 3:30pm PST: Implement Quick Sort.
+**April 25th, 2:30pm - 3:30pm PST:** Implement Quick Sort.
 
 **May 2nd, 2:00pm - 3:00pm PST:** Implement Merge Sort.
 
