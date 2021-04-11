@@ -37,9 +37,9 @@ We have a public calender for the club [here](https://calendar.google.com/calend
 
 **Current Schedule (Updated Sunday, April 11th):*
 
-*April 11th, 2:30pm - 3:30pm PST:* Implement Selection Sort.
+**April 11th, 2:30pm - 3:30pm PST:** Implement Selection Sort.
 
-*April 18th, 2:00pm - 3:00pm PST:8 Implement Insertion Sort.
+**April 18th, 2:00pm - 3:00pm PST:** Implement Insertion Sort.
 
 April 25th, 2:30pm - 3:30pm PST: Implement Quick Sort.
 
