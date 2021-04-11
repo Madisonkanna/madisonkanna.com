@@ -23,29 +23,74 @@ If you'd like to join for the first time or find details on a particular meeting
 
 # Group Coding Sessions.
 
-Every Sunday, I host a group coding session. Anyone is free to join, participate or just listen. 
+Every Sunday, we host a Anyone is free to join, participate or just listen. 
 
-**What:** For 1 hour, we tackle CodeWars problems together. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
+**What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms. This is a great way to practice coding, communication, and other skills that will help you when you do technical interviews.
 
-***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. Every other Sunday, our 2PM meetinb begins with a 30 minute discsion of a chapter from the current book we're reading (see below for more details). 
+***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. Every other Sunday, our 2PM meeting begins with a 30 minute discsion of a chapter from the current book we're reading (see below for more details). 
 
 **Where:** A link to the video call will be given to you when you join the club. 
 
 We have a public calender for the club [here](https://calendar.google.com/calendar?cid=c292Ymk1dnU5bzRuanE5ZG5kYjNpbG84NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you can get the exact Zoom link you'll need to join and a notification on your calender before the event starts. 
 
+**Current Schedule (Updated Sunday, April 11th):*
+
+April 11th, 2:30pm - 3:30pm PST: Implement Selection Sort.
+
+April 18th, 2:00pm - 3:00pm PST: Implement Insertion Sort.
+
+April 25th, 2:30pm - 3:30pm PST: Implement Quick Sort.
+
+May 2nd, 2:00pm - 3:00pm PST: Implement Merge Sort.
+
+May 9th, 2:30pm - 3:30pm PST: Typed Arrays.
+
+May 16th, 2:00pm - 3:00pm PST: Learn how a stack works. 
+
+May 23rd, 2:30pm - 3:30pm PST: Create a Stack Class.
+
+May 30th, 2:00pm - 3:00pm PST: Create a Queue class.
+
+June 6th, 2:30pm - 3:30pm PST: Create a Priority Queue class.
+
+June 13th, 2:00pm - 3:00pm PST: Create a Circular Queue.
+
+June 20th, 2:30pm - 3:30pm PST: Create a Set Class.
+
+June 27th, 2:00pm - 3:00pm PST: Perform a Union on Two Sets.
+
+July 4th: HOLIDAY. Club pauses.
+
+July 11th: 2:30pm - 3:30pm PST: Perform an Intersection on Two Sets of Data. 
+
+Schedule continues and will be added as July gets closer. 
 
 # You Don't Know JS Discussion Group.
 
 **What**: You Don't Know JS book club. 
 
-**When**: 2pm PST/5pm EST to 2:30PST/5:30PST every other Sundays.
+**When**: There are 2 YDKJS book clubs going on currently. 
+
+The first club happens at 2pm PST/5pm EST to 2:30PST/5:30PST every other Sundays. 
+
+The second club happens at 8:00 PM IST (9:30 AM EST / 6:30 AM PST ).
 
 You can learn more about the You Don't Know JS series [here](https://github.com/getify/You-Dont-Know-JS).
+
+In our discord, join the #you-don't-know-js channel for more details. 
 
 Feel free to join the weekly reading at any time. You don't have to come to every meeting, and we'll go over discussion questions to cement what we learned, and help each other get clarity on whatever concepts or ideas we are still confused on or struggling with.
 Kyle Simpson himself recently joined our live call for a Q&A session!
 
 **Where:** Video call. Link to the call will be given to you when you join the club.
+
+# Fullstack open meetings.
+
+A club going through https://fullstackopen.com/en/. 
+
+*When*: Every Sunday at 1pm PST / 3pm EST. 
+
+More details and specifics in the #fullstack-open channel. 
 
 # Intro To Computing reading.
 
