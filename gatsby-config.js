@@ -10,6 +10,7 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
   plugins: [
+    'gatsby-plugin-feed',
     'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-sharp',
@@ -18,6 +19,8 @@ module.exports = {
         stripMetadata: true,
       },
     },
+
+
 
     {
       resolve: 'gatsby-source-filesystem',
