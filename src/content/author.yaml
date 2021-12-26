@@ -1,0 +1,15 @@
+- id: Madison
+  avatar: avatars/author2.png
+  bio: Blog by Madison Kanna
+  twitter: madisonkanna
+  facebook: madisonkanna
+  website: https://www.madisonkanna
+  location: San Francisco
+- id: Another Author
+  avatar: avatars/author2.png
+  bio: Madison Kanna
+  twitter: madisonkanna
+  facebook: ghost
+  website: https://www.madisonkanna
+  location: San Francisco
+  profile_image: img/alex-knight-326705-unsplash.jpg
