@@ -21,6 +21,27 @@ If you'd like to join for the first time or find details on a particular meeting
 3. **Introduce yourself** in the discord.
 4. **Remember** that you don't need to attend every meeting or event in the club! Just make it when you can. 
 
+# Group Coding Sessions.
+
+Every Sunday, we host a group programming session. Anyone is free to join, participate or just listen. 
+
+**What:** For 30 minutes, we tackle a problem in the [Exercism.org JavaScript track](https://exercism.org/tracks/javascript). Once per month for those who want to focus on more data structure and algorithm questions, we will complete a problem from [Hackerrank's](https://www.hackerrank.com/interview/interview-preparation-kit) interview prep.
+
+***When:*** Every Sunday from 2:30PM Pacific Time / 5:30PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
+
+**Where:**  https://zoom.us/j/142437417
+
+**Schedule: (Last updated: January 30th, 2022)**
+February 6th [problem sets](https://exercism.org/tracks/javascript):
+1. Hello, World
+2. Lucian's Luscious Lasagna
+
+February 13th problem sets:
+1. Scrabble Score
+
+February 20th: Hackerrank day. 
+Problem: [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
+
 # Eloquent JavaScript book club.
 
 **What**: Eloquent JavaScript book club. 
@@ -35,20 +56,7 @@ Feel free to join the weekly reading at any time. You don't have to come to ever
 
 Beginners welcome!
 
-**Where:** Video call. Link to the call will be given to you when you join the club.
-
-# Group Coding Sessions.
-
-Every Sunday, we host a group programming session. Anyone is free to join, participate or just listen. 
-
-**What:** For 1 hour, we tackle a problem from  the freeCodeCamp [interview prep](https://www.freecodecamp.org/learn/coding-interview-prep/) curriculum together. Our focus currently is data structures and algorithms.
-
-***When:*** Every Sunday, starting at either 2:00PM PST/5:30PM PST or 2:30PM PST/5:30PM EST. 
-
-(Every other Sunday, our 2PM meeting begins with a 30 minute disussion of a chapter from the current book we're reading (see 'YDKJS' schedule below for more details). 
-
-**Where:** A link to the video call will be given to you when you join the club. 
-
+**Where:**  https://zoom.us/j/142437417
 
 # Fullstack open meetings.
 
