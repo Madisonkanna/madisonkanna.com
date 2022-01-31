@@ -23,9 +23,9 @@ If you'd like to join for the first time or find details on a particular meeting
 
 # Group Coding Sessions.
 
-Every Sunday, we host a group programming session. Anyone is free to join, participate or just listen. 
+Anyone is welcome to join, participate or just listen. 
 
-**What:** For 30 minutes, we tackle a problem in the [Exercism.org JavaScript track](https://exercism.org/tracks/javascript). Once per month for those who want to focus on more data structure and algorithm questions, we will complete a problem from [Hackerrank's](https://www.hackerrank.com/interview/interview-preparation-kit) interview prep.
+**What:** For 30 minutes, we tackle a problem in the [Exercism JavaScript coding track](https://exercism.org/tracks/javascript). Once per month for those who want to focus on more data structure and algorithm questions, we will instead complete a problem from [Hackerrank's](https://www.hackerrank.com/interview/interview-preparation-kit) interview prep.
 
 ***When:*** Every Sunday from 2:30PM Pacific Time / 5:30PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
 
