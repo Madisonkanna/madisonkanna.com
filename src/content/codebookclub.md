@@ -33,7 +33,9 @@ Anyone is welcome to join, participate or just listen.
 
 **Schedule: (Last updated: January 30th, 2022)**
 
-February 6th [problem sets](https://exercism.org/tracks/javascript):
+Problem sets [here](https://exercism.org/tracks/javascript).
+
+February 6th problems:
 1. Hello, World
 2. Lucian's Luscious Lasagna
 
@@ -44,6 +46,22 @@ February 20th: Hackerrank day.
 
 Problem: [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
 
+February 20th problem:
+1. Allergies.
+
+February 27th problem:
+1. Word count
+2. Bank account.
+
+March 6th problems:
+1. Perfect numbers.
+2. Luhn. 
+
+March 13th: Hackerrank day. 
+
+Problem: [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
+
+
 # Eloquent JavaScript book club.
 
 **What**: Eloquent JavaScript book club. 
@@ -53,6 +71,11 @@ Problem: [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=
 You can read the book free [here](https://eloquentjavascript.net/).
 
 In our discord, join the #javascript-book-club channel for more details. 
+
+** Schedule:** 
+
+February 6th.
+Reading: [Chapter 16](https://eloquentjavascript.net/16_game.html).
 
 Feel free to join the weekly reading at any time. You don't have to come to every meeting. During each call we will discuss the chapter and then work through a problem from the book.
 
