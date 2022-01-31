@@ -61,6 +61,8 @@ March 13th: Hackerrank day.
 
 Problem: [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
 
+March 20th problems:
+1. Grainns.
 
 # Eloquent JavaScript book club.
 
@@ -75,7 +77,16 @@ In our discord, join the #javascript-book-club channel for more details.
 ** Schedule:** 
 
 February 6th.
-Reading: [Chapter 16](https://eloquentjavascript.net/16_game.html).
+Reading: [Project - Chapter 16](https://eloquentjavascript.net/16_game.html).
+
+February 13th.
+Reading: [Drawing On Canvas Chapter 17](https://eloquentjavascript.net/17_canvas.html).
+
+February 27th.
+Reading: [HTTP And Forms Chapter 18](https://eloquentjavascript.net/18_http.html)/
+
+March 6th.
+Reading: [Project - Chapter 19](https://eloquentjavascript.net/19_paint.html).
 
 Feel free to join the weekly reading at any time. You don't have to come to every meeting. During each call we will discuss the chapter and then work through a problem from the book.
 
