@@ -41,6 +41,7 @@ February 13th problem sets:
 1. Scrabble Score
 
 February 20th: Hackerrank day. 
+
 Problem: [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
 
 # Eloquent JavaScript book club.
