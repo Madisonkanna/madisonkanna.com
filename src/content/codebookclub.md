@@ -32,6 +32,7 @@ Anyone is welcome to join, participate or just listen.
 **Where:**  https://zoom.us/j/142437417
 
 **Schedule: (Last updated: January 30th, 2022)**
+
 February 6th [problem sets](https://exercism.org/tracks/javascript):
 1. Hello, World
 2. Lucian's Luscious Lasagna
