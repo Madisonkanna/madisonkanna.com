@@ -23,8 +23,6 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => {
   return (
     <PostFullContent className="post-full-content">
-      <h3>💡Request for feedback
-        </h3><div style={{paddingBottom: '20px',  fontStyle: 'italic'}}>If you're taking the time to read this and have feedback, criticism, or corrections, please leave comment below, email me (madisonkanna@gmail.com), or leave anonymous feedback <a href='https://forms.gle/9TMqu8NvEaRGukj9A'>here.</a> </div>
       {/* TODO: this will apply the class when rehype-react is published https://github.com/rhysd/rehype-react/pull/11 */}
       <Ast className="post-content" ast={htmlAst} />
     </PostFullContent>
@@ -36,7 +34,7 @@ export const PostFullContent = styled.section`
   margin: 0 auto;
   padding: 0 170px 6vw;
   min-height: 230px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   font-size: 2rem;
   line-height: 1.6em;
   background: #fff;
@@ -341,7 +339,7 @@ export const PostFullContent = styled.section`
     border: 0;
     /* color: var(--blue); */
     color: ${colors.blue};
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center;
