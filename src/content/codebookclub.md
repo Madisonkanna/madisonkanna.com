@@ -9,7 +9,7 @@ tags:
   - "Coding"
 ---
 
-# [JOIN THE CLUB LINK](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f). 
+# [JOIN THE CLUB](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f). 
 
 Sign up above and you'll get a link to our private discord sent to your email.
 
