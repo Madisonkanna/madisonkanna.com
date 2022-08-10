@@ -29,6 +29,8 @@ If you'd like to join for the first time or find details on a particular meeting
 
 Anyone is welcome to join, participate or just listen. 
 
+**Calender invite**: [Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2I1c25oYzUzaWl1NjExY2xmYWlpMHNha2NfMjAyMjA4MTRUMjEwMDAwWiBzb3ZiaTV2dTlvNG5qcTlkbmRiM2lsbzg0NEBn&tmsrc=sovbi5vu9o4njq9dndb3ilo844%40group.calendar.google.com&scp=ALL) to get a calender invite to our meetings.
+
 **What:** For 30 minutes, we tackle a problem in the [Exercism JavaScript coding track](https://exercism.org/tracks/javascript). Once per month for those who want to focus on more data structure and algorithm questions, we will instead complete a problem from [Hackerrank's](https://www.hackerrank.com/interview/interview-preparation-kit) interview prep.
 
 ***When:*** Every Sunday from 2:00PM Pacific Time / 5:00PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
