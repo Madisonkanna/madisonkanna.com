@@ -9,7 +9,7 @@ tags:
   - "Coding"
 ---
 
-# [JOIN THE CLUB](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f). 
+# [Link here to join the club](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f). 
 
 Sign up above and you'll get a link to our private discord sent to your email.
 
@@ -31,7 +31,7 @@ Anyone is welcome to join, participate or just listen.
 
 **What:** For 30 minutes, we tackle a problem in the [Exercism JavaScript coding track](https://exercism.org/tracks/javascript). Once per month for those who want to focus on more data structure and algorithm questions, we will instead complete a problem from [Hackerrank's](https://www.hackerrank.com/interview/interview-preparation-kit) interview prep.
 
-***When:*** Every Sunday from 2:30PM Pacific Time / 5:30PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
+***When:*** Every Sunday from 2:00PM Pacific Time / 5:00PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
 
 **Where:**  https://zoom.us/j/142437417
 
@@ -39,64 +39,6 @@ Anyone is welcome to join, participate or just listen.
 
 Problem sets [here](https://exercism.org/tracks/javascript).
 
-February 6th problems:
-1. Hello, World
-2. Lucian's Luscious Lasagna
-
-February 13th problem sets:
-1. Scrabble Score
-
-February 20th: Hackerrank day. 
-
-Problem: [2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
-
-February 20th problem:
-1. Allergies.
-
-February 27th problem:
-1. Word count
-2. Bank account.
-
-March 6th problems:
-1. Perfect numbers.
-2. Luhn. 
-
-March 13th: Hackerrank day. 
-
-Problem: [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays).
-
-March 20th problems:
-1. Grainns.
-
-# Eloquent JavaScript book club.
-
-**What**: Eloquent JavaScript book club. 
-
-**When**: 2pm PST/5pm EST to 2:30PST/5:30EST every Sunday. 
-
-You can read the book free [here](https://eloquentjavascript.net/).
-
-In our discord, join the #javascript-book-club channel for more details. 
-
-** Schedule:** 
-
-February 6th.
-Reading: [Project - Chapter 16](https://eloquentjavascript.net/16_game.html).
-
-February 13th.
-Reading: [Drawing On Canvas Chapter 17](https://eloquentjavascript.net/17_canvas.html).
-
-February 27th.
-Reading: [HTTP And Forms Chapter 18](https://eloquentjavascript.net/18_http.html)/
-
-March 6th.
-Reading: [Project - Chapter 19](https://eloquentjavascript.net/19_paint.html).
-
-Feel free to join the weekly reading at any time. You don't have to come to every meeting. During each call we will discuss the chapter and then work through a problem from the book.
-
-Beginners welcome!
-
-**Where:**  https://zoom.us/j/142437417
 
 # Fullstack open meetings.
 
