@@ -48,3 +48,12 @@ A club going through https://fullstackopen.com/en/.
 
 More details and specifics in the #fullstack-open channel. 
 
+# Our community 
+<img width="1341" alt="Screen Shot 2022-08-10 at 1 34 13 PM" src="https://user-images.githubusercontent.com/16752875/184015179-477301a1-36f0-4576-9e52-b0eb7e0cc825.png"><img width="1082" alt="Screen Shot 2022-08-10 at 1 34 06 PM" src="https://user-images.githubusercontent.com/16752875/184015187-63d064b9-e3f2-4176-b813-df6198fa36b6.png">
+
+
+<img width="1367" alt="Screen Shot 2022-08-10 at 1 34 21 PM" src="https://user-images.githubusercontent.com/16752875/184015130-da4c20e3-8cdc-4422-b048-11676d65d30c.png">
+
+
+
+
