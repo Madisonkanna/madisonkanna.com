@@ -9,9 +9,13 @@ tags:
   - "Coding"
 ---
 
-Here you'll find details about the CodeBookClub. Who are we?
+# [JOIN THE CLUB LINK](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f). 
 
-We are hundreds of developers of all experience levels learning together. We hold live online meetups on Zoom, a video conference software. We pair program, hold group coding sessions, and read/discuss tutorials, courses and technical books together. Take a look at this quick [video](https://www.youtube.com/watch?v=VCLnBkHeUJQ&t=82s) I  made about the club.
+Sign up above and you'll get a link to our private discord sent to your email.
+
+Alright, lets get to it... What is the CodeBookClub? Who are we?
+
+We are developers of all experience levels learning together. We hold live online meetups on Zoom, a video conference software. We pair program, hold group coding sessions, and read/discuss tutorials, courses and technical books together. Take a look at this quick [video](https://www.youtube.com/watch?v=VCLnBkHeUJQ&t=82s) I  made about the club.
 
 
 If you'd like to join for the first time or find details on a particular meeting:
