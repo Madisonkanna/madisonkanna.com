@@ -32,14 +32,14 @@ First 15-20 minutes of each meeting will be spent discussing the content. The ne
 Code problem: TBA
 
 ***September 11th, 2022.*** 
-Read before meeting: First 40 pages of the book (up until the big-O notation section.) 
-Code problem: TBA
+Read before meeting: Pages 1 to 38.
+Group discussion topic: Interview prep.
+Code problem: HackerRank problem.
 
 ***September 18th, 2022.*** 
-Read before meeting: Chapter 1.
-Code probem: Problems from chapter 1. 
-
-
+Read before meeting: Page 38 to Page 86. 
+Group discussion: 
+Code probem: HackerRank Problem.
 
 ***September 25th, 2022.*** 
 Read before meeting: Big-O notation. 
