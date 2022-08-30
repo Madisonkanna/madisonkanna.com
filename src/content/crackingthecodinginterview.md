@@ -33,16 +33,19 @@ Code problem: TBA
 
 ***September 11th, 2022.*** 
 Read before meeting: Pages 1 to 38.
-Group discussion topic: Interview prep.
-Code problem: HackerRank problem.
+Group discussion topic: Interview prep, the interview process.
+Code problem: HackerRank problem. 
 
 ***September 18th, 2022.*** 
 Read before meeting: Page 38 to Page 86. 
-Group discussion: 
+Group discussion: Big-O notation and job offers.
 Code probem: HackerRank Problem.
 
 ***September 25th, 2022.*** 
-Read before meeting: Big-O notation. 
+Read before meeting: Chapter 1.
+Group discussion: Arrays and Strings.
+Code problem: Chapter 1 problems.
+
 
 # Our community 
 <img width="700" alt="Screen Shot 2022-08-10 at 1 34 13 PM" src="https://user-images.githubusercontent.com/16752875/184015179-477301a1-36f0-4576-9e52-b0eb7e0cc825.png"><img width="700" alt="Screen Shot 2022-08-10 at 1 34 06 PM" src="https://user-images.githubusercontent.com/16752875/184015187-63d064b9-e3f2-4176-b813-df6198fa36b6.png">
