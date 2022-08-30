@@ -37,14 +37,24 @@ Group discussion topic: Interview prep, the interview process.
 Code problem: HackerRank problem. 
 
 ***September 18th, 2022.*** 
-Read before meeting: Page 38 to Page 86. 
-Group discussion: Big-O notation and job offers.
-Code probem: HackerRank Problem.
+Read before meeting: 
+Page 38 to Page 86. 
+
+Group discussion: 
+Big-O notation and job offers.
+
+Code probem: 
+HackerRank Problem.
 
 ***September 25th, 2022.*** 
-Read before meeting: Chapter 1.
-Group discussion: Arrays and Strings.
-Code problem: Chapter 1 problems.
+Read before meeting: 
+Chapter 1.
+
+Group discussion: 
+Arrays and Strings.
+
+Code problem: 
+Chapter 1 problems.
 
 
 # Our community 
