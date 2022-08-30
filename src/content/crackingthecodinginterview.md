@@ -9,24 +9,21 @@ tags:
   - "Coding"
 ---
 
-Details for our study group. 
-
-1. **Join** our [email list](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f) to get your invitation to the study group. Once you confirm your email, you will get a link to the private discord. 
-2. **Read** the #welcome channel before posting.
-3. **Introduce yourself** in the discord.
-4. **Remember** that you don't need to attend every meeting or event in the club! Just make it when you can. 
-
 # Cracking The Coding Interview 
+
+Details for the Cracking The Coding Interview study group. [Sign up](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f) to get an invite to our discord if you're joining our group.
 
 Anyone is welcome to join, participate or just listen. 
 
-**Calender invite**: [Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2I1c25oYzUzaWl1NjExY2xmYWlpMHNha2NfMjAyMjA4MTRUMjEwMDAwWiBzb3ZiaTV2dTlvNG5qcTlkbmRiM2lsbzg0NEBn&tmsrc=sovbi5vu9o4njq9dndb3ilo844%40group.calendar.google.com&scp=ALL) to get a calender invite to our meetings.
+***What?*** A group of developers are reading Cracking The Coding Interview together in a weekly study group. We'll be meeting on Zoom to complete Algorithm problems from CTCI and discussing the book. 
 
 ***When:*** Every Sunday from 2:00PM Pacific Time / 5:00PM Eastern Time to 3:00PM Pacific Time / 6:00PM Eastern.
 
 **Where:**  [Zoom link ](https://us06web.zoom.us/j/86373081033?pwd=YnUyelJlaTZkV1hKOGlmeGphYVQwZz09)
 
 **Schedule: (Last updated: August 30th, 2022)**
+
+**Calender invite**: [Click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2I1c25oYzUzaWl1NjExY2xmYWlpMHNha2NfMjAyMjA4MTRUMjEwMDAwWiBzb3ZiaTV2dTlvNG5qcTlkbmRiM2lsbzg0NEBn&tmsrc=sovbi5vu9o4njq9dndb3ilo844%40group.calendar.google.com&scp=ALL) to get a calender invite to our meetings.
 
 ***Meeting length:*** 1 hour.
 
