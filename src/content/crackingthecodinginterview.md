@@ -31,14 +31,21 @@ Anyone is welcome to join, participate or just listen.
 ***Meeting length:*** 1 hour.
 
 ***Format for each meeting:*** 
-First 15-20 minutes of each meeting will be spent discussing the content. The next 40-45 minutes of the meeting
+First 15-20 minutes of each meeting will be spent discussing the content. The next 40-45 minutes of the meeting will involve working on a coding problem from the book.
+Code problem: TBA
 
 ***September 11th, 2022.*** 
-Reading before the meeting: First 40 pages of the book (up until the big-O notation section.) 
+Read before meeting: First 40 pages of the book (up until the big-O notation section.) 
+Code problem: TBA
 
 ***September 18th, 2022.*** 
-Reading before the meeting: Big-O notation. 
+Read before meeting: Chapter 1.
+Code probem: Problems from chapter 1. 
 
+
+
+***September 25th, 2022.*** 
+Read before meeting: Big-O notation. 
 
 # Our community 
 <img width="700" alt="Screen Shot 2022-08-10 at 1 34 13 PM" src="https://user-images.githubusercontent.com/16752875/184015179-477301a1-36f0-4576-9e52-b0eb7e0cc825.png"><img width="700" alt="Screen Shot 2022-08-10 at 1 34 06 PM" src="https://user-images.githubusercontent.com/16752875/184015187-63d064b9-e3f2-4176-b813-df6198fa36b6.png">
