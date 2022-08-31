@@ -94,9 +94,3 @@ Let me submit, as my parting word, a warning to the skeptic: the democratic proc
 
 At some point, failure becomes final.
 
-affiliate tests 
-
-https://amzn.to/3R5OSQo
-https://amzn.to/3Q7bij0
-https://amzn.to/3AXeOZ2
-https://amzn.to/3CJF7Db
