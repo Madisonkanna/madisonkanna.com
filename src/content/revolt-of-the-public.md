@@ -7,7 +7,7 @@ draft: false
 image: img/revolt.jpg
 tags: ["Bookshelf"]
 ---
-Image from [Stripe Press](https://press.stripe.com/). Below are some of the notes I jotted down while reading [The Revolt Of The Public.](https://amzn.to/35sPEBM) These notes are by no means comprehensive. They are paragraphs or sections that struck me and or that I underlined while reading. Have thoughts or recommended reading for me? Feel free to leave a comment below.
+Image from [Stripe Press](https://press.stripe.com/). Below are some of the notes I jotted down while reading [The Revolt Of The Public.](https://amzn.to/3dXdHzl) These notes are by no means comprehensive. They are paragraphs or sections that struck me and or that I underlined while reading. Have thoughts or recommended reading for me? Feel free to leave a comment below.
 
 # My thesis
 
