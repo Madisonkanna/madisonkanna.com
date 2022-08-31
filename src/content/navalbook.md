@@ -8,7 +8,7 @@ image: img/navalbook.jpg
 tags: ["Bookshelf"]
 ---
 
-My notes from [The Almanack of Naval Ravikant.](https://amzn.to/2KeNwpC) Also available free [here](https://www.navalmanack.com/).
+My notes from [The Almanack of Naval Ravikant.](https://amzn.to/3Tu6uqJ) Also available free [here](https://www.navalmanack.com/).
 
 # Table of contents
 
