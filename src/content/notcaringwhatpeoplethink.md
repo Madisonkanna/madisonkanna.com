@@ -8,7 +8,7 @@ image: img/notcaring.png
 tags: ["Bookshelf", "My Notes"]
 ---
 
-Notes & takeaways from [Not Caring What People Think Is A Superpower](https://amzn.to/3Tu6uqJ) by Ed Latimore.
+My notes from [Not Caring What People Think Is A Superpower](https://amzn.to/3AxAPwc) by Ed Latimore.
 
 ## Some limits are real. Some limits are imagined. 
 
