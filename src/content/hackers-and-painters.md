@@ -8,7 +8,7 @@ image: img/hackers.JPG
 tags: ["Bookshelf", "Draft Post"]
 ---
 
-My notes so far from [Hackers & Painters: Big Ideas From The Computer Age](https://amzn.to/3ky5hw6) by Paul Graham.
+My notes so far from [Hackers & Painters: Big Ideas From The Computer Age](https://amzn.to/3R5rjHs) by Paul Graham.
 
 1. [Why Nerds Are Unpopular](#why-nerds)
 2. [Hackers And Painters](#hackers-and-painters)
