@@ -93,3 +93,10 @@ History could well be driven by negation rather than contradiction. It could rid
 Let me submit, as my parting word, a warning to the skeptic: the democratic process is in peril of self-negation. The public’s mood swings are driven by failures of government, not hope for change. Each failure bleeds legitimacy from the system, erodes faith in the machinery of democracy, and paves the way for the opposite extreme. Democracy lacks true rivals today as an ideal and ideology. Fukuyama was indeed half right. But there is a decadence in certain historical moments, an entropy of systems, propelled by the internal dynamic, that makes no demands for alternative ideals or structures before the onset of disintegration. 
 
 At some point, failure becomes final.
+
+affiliate tests 
+
+https://amzn.to/3R5OSQo
+https://amzn.to/3Q7bij0
+https://amzn.to/3AXeOZ2
+https://amzn.to/3CJF7Db
