@@ -3,7 +3,7 @@ title: My favorite books
 layout: post
 date: 2019-08-22T22:40:32.169Z
 author: [Madison]
-draft: true
+draft: false
 image: img/books.jpeg
 tags: ["Bookshelf"]
 ---
