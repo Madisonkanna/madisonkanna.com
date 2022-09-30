@@ -3,7 +3,7 @@ title: JavaScript Variables – A Beginner's Guide to var, const, and let
 date: 2020-12-13T22:40:32.169Z
 layout: post
 author: [Madison]
-draft: false
+draft: true
 image: img/constletvar.png
 tags: ["Coding", "JavaScript", "Tutorials"]
 ---
