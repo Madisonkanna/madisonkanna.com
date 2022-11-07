@@ -76,6 +76,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
           </PostCardHeader>
           <PostCardExcerpt className="post-card-excerpt">
             <p>{post.frontmatter.excerpt || post.excerpt}</p>
+            <div>{`Last updated: ${displayDatetime}`}</div>
           </PostCardExcerpt>
         </Link>
 
