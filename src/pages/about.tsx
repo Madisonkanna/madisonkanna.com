@@ -70,7 +70,7 @@ const About: React.FC = () => (
               <div className="post-content">
                Hey! I'm Madison. Thanks for visiting my  blog.
                 <h3>Me in 20 seconds</h3>
-                <p>I'm a JavaScript developer working at Showcase IDX.</p>
+                <p>I'm a JavaScript developer.</p>
                 <p>I'm creating the <a href="https://madisonkanna.com/codebookclub">CodeBookClub.</a></p>
                 <p>I'm living in California.</p>
                 <h3>My most read articles</h3>
