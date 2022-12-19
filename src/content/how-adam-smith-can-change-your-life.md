@@ -8,7 +8,7 @@ image: img/adamsmih.jpeg
 tags: ['Bookshelf']
 ---
 
-[How Adam Smith Can Change Your Life](https://amzn.to/3PBZTZS).
+Takeaways from reading [How Adam Smith Can Change Your Life](https://amzn.to/3PBZTZS).
 
 This book takes the ideas and insights from Adam Smith’s “The Theory of Moral Sentiments” and makes them more accessible to the modern reader.
 
