@@ -65,7 +65,7 @@ But Adam Smith had a different idea of why we fail to live up to the standards a
 
 Smith says we naturally desire not only to be loved but also to be lovely. How does he reconcile this claim with what seems to be what we really desire--fame and fortune? Aren’t those the two urges that drive us?
 
-SMith uses the word loved to encompass not just romantic love. When he says we want to be loved, he means paid attention to, liked, respected, honored. We want to matter. We want people to notice us. Smith notes that the world pays attention to the rich and famous people, and because of us, we wish we were rich and famous.
+Smith uses the word loved to encompass not just romantic love. When he says we want to be loved, he means paid attention to, liked, respected, honored. We want to matter. We want people to notice us. Smith notes that the world pays attention to the rich and famous people, and because of us, we wish we were rich and famous.
 
 Instead of pursuing wealth or fame, Smith believed the path to contentment was to pursue wisdom and goodness. We are loved by others when we are wise and virtuous.
 
