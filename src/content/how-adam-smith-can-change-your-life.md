@@ -5,7 +5,7 @@ layout: post
 author: [Madison]
 draft: false
 image: img/adamsmih.jpeg
-tags: ['Bookshelf', 'Draft Post']
+tags: ['Bookshelf']
 ---
 
 Takeawayws from reading [Hackers & Painters: Big Ideas From The Computer Age]([https://amzn.to/3R5rjHs](https://amzn.to/3PBZTZS) by Russ Roberts.
