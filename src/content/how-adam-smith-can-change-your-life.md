@@ -8,7 +8,9 @@ image: img/adamsmih.jpeg
 tags: ['Bookshelf']
 ---
 
-Takeawayws from reading [Hackers & Painters: Big Ideas From The Computer Age]([https://amzn.to/3R5rjHs](https://amzn.to/3PBZTZS) by Russ Roberts.
+[How Adam Smith Can Change Your Life](https://amzn.to/3PBZTZS).
+
+This book takes the ideas and insights from Adam Smith’s “The Theory of Moral Sentiments” and makes them more accessible to the modern reader.
 
 1. [How to know yourself](#know-yourself)
 2. [How to be happy](#happy)
