@@ -19,8 +19,6 @@ This book takes the ideas and insights from Adam Smith’s “The Theory of Mora
 
 ## How to know yourself <a name="know-yourself"></a>
 
-Smith believed humans are naturally self-interested. But if we’re self-interested, then why do we complete acts of kindness and benevolence? Smith’s answer - The impartial spectator:
-
 Smith believed humans are naturally self-interested. But if we’re self-interested, then why do we complete acts of kindness and benevolence? Some might argue that we do these things because we are inherently kind and compassionate. Smith, however, says that the charitable actions we do for others are done in order to satisfy what we imagine is the standard that would be set by an “impartial spectator. “
 
 This impartial spectator is a figure we imagine whom we converse with in some virtual sense. An impartial, objective figure who sees the morality of our actions clearly. It is this figure we answer to when we consider what is moral or right.
