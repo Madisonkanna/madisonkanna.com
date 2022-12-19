@@ -49,7 +49,7 @@ A modern way to capture what Smith is talking about: we want to be authentic. If
 
 To be loved without being lovely is a temptation for the weak. Smith encourages us to strive for harmony between our inner self and our outer self.
 
-People around us want to be loved, just as we want to be loved. Sometimes they fool us into thinking we’re something we’re not, either through strategic flattery or or just through an honest mistake.Yet the biggest challenge we face isn’t detecting false praise from others --it’s detecting false praise from ourselves. We want so badly to be lovely that we’ll fool ourselves into thinking we are.
+People around us want to be loved, just as we want to be loved. Sometimes they fool us into thinking we’re something we’re not, either through strategic flattery or or just through an honest mistake. Yet the biggest challenge we face isn’t detecting false praise from others --it’s detecting false praise from ourselves. We want so badly to be lovely that we’ll fool ourselves into thinking we are.
 
 ## How to not fool yourself <a name="fool"></a>
 
