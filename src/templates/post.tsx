@@ -20,7 +20,6 @@ import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
 import { AuthorList } from '../components/AuthorList';
-import { DiscussionEmbed } from "disqus-react"
 
 export interface Author {
   id: string;
@@ -113,11 +112,11 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
     height = String(Number(width) / post.frontmatter.image.childImageSharp.fluid.aspectRatio);
   }
 
-  let title = post.frontmatter.title
+  let title = post.frontmatter.title;
   const disqusConfig = {
     shortname: 'madisonkanna',
-    config: { identifier: title }
-  }
+    config: { identifier: title },
+  };
 
   const date = new Date(post.frontmatter.date);
   // 2018-08-20
@@ -199,13 +198,14 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                     <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
                       {post.frontmatter.tags[0]}
                     </Link>
-
                   )}
-                  {post.frontmatter.tags[1] ? 
-                   <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[1])}/`}>
+                  {post.frontmatter.tags[1] ? (
+                    <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[1])}/`}>
                       , {post.frontmatter.tags[1]}
-                    </Link> : ''
-                  }
+                    </Link>
+                  ) : (
+                    ''
+                  )}
                 </PostFullTags>
                 <PostFullTitle className="post-full-title">{post.frontmatter.title}</PostFullTitle>
                 <PostFullCustomExcerpt className="post-full-custom-excerpt">
@@ -237,7 +237,6 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
 
               {post.frontmatter.image?.childImageSharp && (
                 <PostFullImage>
-
                   <Img
                     style={{ height: '100%' }}
                     fluid={post.frontmatter.image.childImageSharp.fluid}
@@ -247,7 +246,6 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
               )}
 
               <PostContent htmlAst={post.htmlAst} />
-              <DiscussionEmbed {...disqusConfig} />
 
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
@@ -255,15 +253,12 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
           </div>
         </main>
 
-
-
         <ReadNext
           currentPageSlug={props.pathContext.slug}
           tags={post.frontmatter.tags}
           relatedPosts={props.data.relatedPosts}
           pageContext={props.pageContext}
         />
-
 
         <Footer />
       </Wrapper>
@@ -338,7 +333,7 @@ const PostFullTags = styled.section`
 const PostFullCustomExcerpt = styled.p`
   margin: 20px 0 0;
   color: var(--midgrey);
-   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   font-size: 2.3rem;
   line-height: 1.4em;
   font-weight: 200;
@@ -434,7 +429,7 @@ export const PostFullTitle = styled.h1`
 `;
 
 const PostFullImage = styled.figure`
-   margin: 25px 0 50px;
+  margin: 25px 0 50px;
   // height: 800px;
   background: ${colors.lightgrey} center center;
   background-size: cover;
@@ -458,7 +453,7 @@ const PostFullImage = styled.figure`
 `;
 
 export const query = graphql`
-  query($slug: String, $primaryTag: String) {
+  query ($slug: String, $primaryTag: String) {
     logo: file(relativePath: { eq: "img/author.jpg" }) {
       childImageSharp {
         fixed {
