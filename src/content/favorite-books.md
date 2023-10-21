@@ -15,7 +15,7 @@ tags: ["Bookshelf"]
 What happened to journalism and the media? How did Trump get elected?
 ### Sophie's World: A Novel About the History of Philosophy by Jostein Gaarder. 
 ### Pride and Prejudice by Jane Austen
-### Persausion by Jane Austen
+### Persuasion by Jane Austen
 ### Sense and Sensibility by Jane Austen.
 ### Mansfield Park by Jane Austen
 ### Emma by Jane Austen
@@ -58,7 +58,7 @@ The best book I've ever read on writing. Much of this book could apply to not ju
 ### The Dolphins of Oceanus by John Hoopes.
 ### You don’t know JS series 
 ### The Princessa: Machiavelli for Women by  Harriet Rubin.
-### Rules of Titans Tim Ferris
+### Tools of Titans Tim Ferriss
 ### Secrets of the JavaScript Ninja
 ### Dune
 ### Vanity Fair by William Makepeace Thackeray.
