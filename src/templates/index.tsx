@@ -57,7 +57,6 @@ export interface IndexProps {
 const IndexPage: React.FC<IndexProps> = props => {
   const { width, height } = props.data.header.childImageSharp.fixed;
 
-
   return (
     <IndexLayout css={HomePosts}>
       <Helmet>
@@ -116,10 +115,14 @@ const IndexPage: React.FC<IndexProps> = props => {
                 />
                 <AuthHeaderContent className="author-header-content">
                   <SiteTitle className="site-title">Hi, I'm Madison.</SiteTitle>
-                  { <AuthorBio className="author-bio">Welcome! Lately you'll find me here scribbling down notes on what I'm learning. If you read anything here and have feedback, corrections or thoughts, I'd love to hear from you.
-                   </AuthorBio>}
+                  {
+                    <AuthorBio className="author-bio">
+                      Welcome! Lately you'll find me here scribbling down notes on what I'm
+                      learning. If you read anything here and have feedback, corrections or
+                      thoughts, I'd love to hear from you.
+                    </AuthorBio>
+                  }
                   <div css={AuthorMeta} className="author-meta">
-
                     {/* <div className="author-stats" css={[HiddenMobile]}>
                       posts
                     </div> */}
@@ -146,17 +149,17 @@ const IndexPage: React.FC<IndexProps> = props => {
                         </AuthorSocialLinkAnchor>
                       </AuthorSocialLink>
                     )} */}
-                                        {(
+                    {
                       <AuthorSocialLink className="author-social-link">
                         <AuthorSocialLinkAnchor
-                            href='https://madisonkanna.com/about/'
+                          href="https://madisonkanna.com/about/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
                           About me
                         </AuthorSocialLinkAnchor>
                       </AuthorSocialLink>
-                    )}
+                    }
                   </div>
                 </AuthHeaderContent>
               </SiteHeaderContent>
@@ -171,7 +174,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           }}
         >
            */}
-          {/* <div css={inner}>
+        {/* <div css={inner}>
             <SiteNav isHome />
             <SiteHeaderContent className="site-header-conent">
               <SiteTitle className="site-title">
@@ -284,7 +287,6 @@ export const pageQuery = graphql`
   }
 `;
 
-
 const AuthorHeader = css`
   display: flex;
   flex-direction: row;
@@ -372,13 +374,11 @@ const AuthorSocialLinkAnchor = styled.a`
   }
 `;
 
-
 const AuthorSocialLink = styled.span`
   display: inline-block;
   margin: 0;
   padding: 6px 0;
 `;
-
 
 const AuthHeaderContent = styled.div`
   display: flex;
