@@ -1,8 +1,7 @@
-
 import { format } from 'date-fns';
 import { Link } from 'gatsby';
 import Img from 'gatsby-image';
-import _ from 'lodash';
+import _, { maxBy } from 'lodash';
 import { lighten } from 'polished';
 import React from 'react';
 
@@ -11,8 +10,6 @@ import styled from '@emotion/styled';
 
 import { colors } from '../styles/colors';
 import { PageContext } from '../templates/post';
-import { AuthorList } from './AuthorList';
-
 export interface PostCardProps {
   post: PageContext;
   large?: boolean;
@@ -26,24 +23,21 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
   const displayDatetime = format(date, 'dd LLL yyyy');
 
   const tagChecks = () => {
+    const { tags } = post.frontmatter;
 
-    const { tags } = post.frontmatter 
-
-    if (tags[0] === "Bookshelf") {
-      tags[0] = "Bookshelf 📚"
+    if (tags[0] === 'Bookshelf') {
+      tags[0] = 'Bookshelf 📚';
     }
 
-    if (tags[1] === "My notes") {
-      tags[0] = "My notes 📝"
+    if (tags[1] === 'My notes') {
+      tags[0] = 'My notes 📝';
     }
 
     return (
       <PostCardPrimaryTag className="post-card-primary-tag">
-      {`${tags[0]} ${tags[1] ? tags[1] : '' } `}
+        {`${tags[0]} ${tags[1] ? tags[1] : ''} `}
       </PostCardPrimaryTag>
-
-    )
-
+    );
   };
 
   return (
@@ -69,8 +63,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
       <PostCardContent className="post-card-content">
         <Link className="post-card-content-link" css={PostCardContentLink} to={post.fields.slug}>
           <PostCardHeader className="post-card-header">
-          
-          {post.frontmatter.tags ? tagChecks() : null}
+            {post.frontmatter.tags ? tagChecks() : null}
 
             <PostCardTitle className="post-card-title">{post.frontmatter.title}</PostCardTitle>
           </PostCardHeader>
@@ -79,7 +72,6 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
             <div>{`Last updated: ${displayDatetime}`}</div>
           </PostCardExcerpt>
         </Link>
-
       </PostCardContent>
     </article>
   );
@@ -207,7 +199,7 @@ const PostCardTitle = styled.h2`
 `;
 
 const PostCardExcerpt = styled.section`
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
 
   @media (prefers-color-scheme: dark) {
     /* color: color(var(--midgrey) l(+10%)); */
