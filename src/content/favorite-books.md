@@ -16,8 +16,6 @@ tags: ['Bookshelf']
 
 ### [The Revolt Of The Public By Martin Guri.](https://www.madisonkanna.com/posts/revolt-of-the-public/)
 
-What happened to journalism and the media? How did Trump get elected?
-
 ### Sophie's World: A Novel About the History of Philosophy by Jostein Gaarder.
 
 ### Pride and Prejudice by Jane Austen
@@ -48,8 +46,6 @@ I first read this a few years ago when I wanted to start dipping my toes into le
 
 ### Can’t hurt me by David Goggins
 
-A lot of people said this is the only "self-help" book you will ever need. Others also said that if reading this book doesn't cause you to change your life, no book will. Agree.
-
 ### I Will Teach You To Be Rich by Ramit Sethi.
 
 A book about getting your finances in order. Goes over the fundamentals of investing, spending, saving and how to live a rich life, which really means spending on things you care about and living a good life. A good read when you're in your 20s and you're setting up your 401k, Roth IRA, etc. I wish I had read it sooner.
@@ -79,8 +75,6 @@ A book about getting your finances in order. Goes over the fundamentals of inves
 ### Chronicles of Narnia
 
 ### Harry Potter series
-
-Duh.
 
 ### Not Caring What People Think Is A Superpower by Ed Latimore
 
