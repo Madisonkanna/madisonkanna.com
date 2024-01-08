@@ -17,6 +17,15 @@ const IndexLayout: React.FC<IndexProps> = props => {
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
+        {/* Request Metrics */}
+        <script>
+          {`
+          (function(t,e,n,a){function r(){return e&&e.now?e.now():null}if(!n.version){n._events=[];n._errors=[];n._metadata={};window.RM=n;n.install=function(e){n._options=e;var r=t.createElement("script");r.async=true;r.crossOrigin="anonymous";r.src=a;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)};n.identify=function(t,e){n._userId=t;n._identifyOptions=e};n.sendEvent=function(t,e){n._events.push({eventName:t,metadata:e,time:r()})};n.track=function(t,e){n._errors.push({error:t,metadata:e,time:r()})};n.addMetadata=function(t){n._metadata=Object.assign(n._metadata,t)}}})(document,window.performance,window.RM||{},"https://cdn.requestmetrics.com/agent/current/rm.js");
+          RM.install({ 
+              token: "z2tf3bn:s2jf7qr"
+          });
+        `}
+        </script>
       </Helmet>
       <Global
         styles={css`
@@ -131,7 +140,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
           }
           html {
             box-sizing: border-box;
-              font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
 
             -ms-text-size-adjust: 100%;
             -webkit-text-size-adjust: 100%;
@@ -277,7 +286,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
           body {
             overflow-x: hidden;
             color: ${lighten('-0.3', colors.midgrey)};
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
             font-size: 1.6rem;
             line-height: 1.6em;
             font-style: normal;
