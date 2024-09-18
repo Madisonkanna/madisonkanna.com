@@ -20,7 +20,7 @@ We are developers of all experience levels learning together. We hold live onlin
 
 If you'd like to join for the first time or find details on a particular meeting:
 
-1. **Join** our [email list](https://madisonkanna.us14.list-manage.com/subscribe/post?u=323fd92759e9e0b8d4083d008&id=033dfeb98f) to get your invitation to the club by email, and to get updates on future books or community events. 
+1. **Join** our [email list](http://eepurl.com/dEJJVj) to get your invitation to the club by email, and to get updates on future books or community events. 
 2. **Read** the #welcome channel before posting, and make sure you post in the relevant channel. If the link is not working for whatever reason, email me and let me know or follow me on [Twitter](https://twitter.com/Madisonkanna) where I'll be posting new links.
 3. **Introduce yourself** in the discord.
 4. **Remember** that you don't need to attend every meeting or event in the club! Just make it when you can. 
