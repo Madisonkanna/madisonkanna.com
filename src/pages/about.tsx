@@ -69,10 +69,7 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                Hey! I'm Madison. Thanks for visiting my  blog.
-                <h3>Me in 20 seconds</h3>
-                <p>I'm a JavaScript developer.</p>
-                <p>I'm creating the <a href="https://madisonkanna.com/codebookclub">CodeBookClub.</a></p>
-                <p>I'm living in California.</p>
+                Under construction.
                 <h3>My most read articles</h3>
                                 <p><a href="https://www.madisonkanna.com/why-im-glad-i-grew-up-playing-neopets/">Why I'm Glad I Grew Up Playing Neopets</a></p>
                 <p><a href="https://www.madisonkanna.com/how-i-went-from-beginner-to-developer/">How I went from complete beginner to software developer — and how you can too</a></p>
